@@ -1,0 +1,1873 @@
+,Brand,Produkt,Tydzien,Sprzedaz,Wojewodztwo,Miasto
+0,Sony,DVD,1,370,Dolnoslaskie,Wroclaw
+1,Panasonic,Car Audio,1,298,Opolskie,Opole
+2,Toshiba,Car Audio,1,36,Podkarpackie,Rzeszow
+3,LG,Car Audio,1,238,Podlaskie,Bialystok
+4,Samsung,Car Audio,1,405,Pomorskie,Sopot
+5,Sony,Monitor,1,167,Slaskie,Katowice
+6,Philips,Monitor,1,225,Swietokrzyskie,Kilece
+7,Panasonic,Monitor,1,308,Wielkopolskie,Poznan
+8,Toshiba,Monitor,1,168,Zachodniopomorskie,Koszalin
+9,LG,Monitor,1,349,Dolnoslaskie,Wroclaw
+10,Samsung,Monitor,1,80,Lubelskie,Lublin
+11,Sony,LCD,1,323,Lubuskie,Zielona Gora
+12,Philips,LCD,1,164,Lodzkie,Lodz
+13,Panasonic,LCD,1,54,Malopolskie,Krakow
+14,Toshiba,LCD,1,284,Mazowieckie,Warszawa
+15,LG,LCD,1,330,Opolskie,Opole
+16,Philips,Car Audio,1,88,Mazowieckie,Warszawa
+17,Sony,Car Audio,1,101,Malopolskie,Krakow
+18,Samsung,LCD,1,46,Podkarpackie,Rzeszow
+19,LG,Aparat cyfrowy,1,365,Lubuskie,Zielona Gora
+20,Philips,DVD,1,186,Lubelskie,Lublin
+21,Panasonic,DVD,1,96,Lubuskie,Zielona Gora
+22,Toshiba,DVD,1,28,Lodzkie,Lodz
+23,LG,DVD,1,265,Malopolskie,Krakow
+24,Samsung,Aparat cyfrowy,1,141,Lodzkie,Lodz
+25,Sony,HiFi,1,170,Opolskie,Opole
+26,Philips,HiFi,1,217,Podkarpackie,Rzeszow
+27,Samsung,DVD,1,21,Mazowieckie,Warszawa
+28,Toshiba,HiFi,1,355,Pomorskie,Sopot
+29,LG,HiFi,1,59,Slaskie,Katowice
+30,Samsung,HiFi,1,244,Swietokrzyskie,Kilece
+31,Sony,Aparat cyfrowy,1,2,Wielkopolskie,Poznan
+32,Philips,Aparat cyfrowy,1,53,Zachodniopomorskie,Koszalin
+33,Panasonic,Aparat cyfrowy,1,597,Dolnoslaskie,Wroclaw
+34,Toshiba,Aparat cyfrowy,1,269,Lubelskie,Lublin
+35,Panasonic,HiFi,1,153,Podlaskie,Bialystok
+36,Toshiba,Car Audio,2,20,Podkarpackie,Rzeszow
+37,LG,Car Audio,2,268,Podlaskie,Bialystok
+38,Samsung,Car Audio,2,170,Pomorskie,Sopot
+39,Sony,Monitor,2,62,Slaskie,Katowice
+40,Philips,Monitor,2,212,Swietokrzyskie,Kilece
+41,Panasonic,Monitor,2,79,Wielkopolskie,Poznan
+42,LG,LCD,2,100,Opolskie,Opole
+43,LG,Monitor,2,220,Dolnoslaskie,Wroclaw
+44,Samsung,Monitor,2,204,Lubelskie,Lublin
+45,Sony,LCD,2,317,Lubuskie,Zielona Gora
+46,Philips,LCD,2,277,Lodzkie,Lodz
+47,Panasonic,LCD,2,27,Malopolskie,Krakow
+48,Toshiba,LCD,2,299,Mazowieckie,Warszawa
+49,Panasonic,Car Audio,2,108,Opolskie,Opole
+50,Toshiba,Monitor,2,495,Zachodniopomorskie,Koszalin
+51,Philips,Car Audio,2,158,Mazowieckie,Warszawa
+52,LG,HiFi,2,236,Slaskie,Katowice
+53,Samsung,Aparat cyfrowy,2,181,Lodzkie,Lodz
+54,Samsung,LCD,2,72,Podkarpackie,Rzeszow
+55,Panasonic,DVD,2,226,Lubuskie,Zielona Gora
+56,Toshiba,DVD,2,28,Lodzkie,Lodz
+57,LG,DVD,2,59,Malopolskie,Krakow
+58,Samsung,DVD,2,12,Mazowieckie,Warszawa
+59,Sony,HiFi,2,369,Opolskie,Opole
+60,Philips,HiFi,2,232,Podkarpackie,Rzeszow
+61,Panasonic,HiFi,2,396,Podlaskie,Bialystok
+62,Toshiba,HiFi,2,310,Pomorskie,Sopot
+63,Samsung,HiFi,2,160,Swietokrzyskie,Kilece
+64,Sony,Aparat cyfrowy,2,12,Wielkopolskie,Poznan
+65,Philips,Aparat cyfrowy,2,158,Zachodniopomorskie,Koszalin
+66,Panasonic,Aparat cyfrowy,2,265,Dolnoslaskie,Wroclaw
+67,Toshiba,Aparat cyfrowy,2,229,Lubelskie,Lublin
+68,LG,Aparat cyfrowy,2,86,Lubuskie,Zielona Gora
+69,Sony,Car Audio,2,76,Malopolskie,Krakow
+70,Philips,DVD,2,127,Lubelskie,Lublin
+71,Sony,DVD,2,43,Dolnoslaskie,Wroclaw
+72,Panasonic,Monitor,3,352,Wielkopolskie,Poznan
+73,Philips,Car Audio,3,122,Mazowieckie,Warszawa
+74,Toshiba,Car Audio,3,30,Podkarpackie,Rzeszow
+75,LG,Car Audio,3,169,Podlaskie,Bialystok
+76,Samsung,Car Audio,3,337,Pomorskie,Sopot
+77,Sony,Monitor,3,48,Slaskie,Katowice
+78,Philips,Monitor,3,61,Swietokrzyskie,Kilece
+79,Toshiba,Monitor,3,161,Zachodniopomorskie,Koszalin
+80,LG,Monitor,3,403,Dolnoslaskie,Wroclaw
+81,Samsung,Monitor,3,165,Lubelskie,Lublin
+82,Sony,LCD,3,400,Lubuskie,Zielona Gora
+83,Philips,LCD,3,239,Lodzkie,Lodz
+84,Panasonic,LCD,3,31,Malopolskie,Krakow
+85,Toshiba,LCD,3,249,Mazowieckie,Warszawa
+86,LG,LCD,3,279,Opolskie,Opole
+87,Samsung,LCD,3,57,Podkarpackie,Rzeszow
+88,Sony,Car Audio,3,132,Malopolskie,Krakow
+89,Samsung,Aparat cyfrowy,3,124,Lodzkie,Lodz
+90,Panasonic,Car Audio,3,359,Opolskie,Opole
+91,Toshiba,Aparat cyfrowy,3,539,Lubelskie,Lublin
+92,Sony,DVD,3,104,Dolnoslaskie,Wroclaw
+93,Philips,DVD,3,240,Lubelskie,Lublin
+94,Panasonic,DVD,3,387,Lubuskie,Zielona Gora
+95,Toshiba,DVD,3,54,Lodzkie,Lodz
+96,LG,DVD,3,229,Malopolskie,Krakow
+97,LG,Aparat cyfrowy,3,303,Lubuskie,Zielona Gora
+98,Sony,HiFi,3,106,Opolskie,Opole
+99,Philips,HiFi,3,78,Podkarpackie,Rzeszow
+100,Samsung,DVD,3,25,Mazowieckie,Warszawa
+101,Toshiba,HiFi,3,418,Pomorskie,Sopot
+102,LG,HiFi,3,195,Slaskie,Katowice
+103,Samsung,HiFi,3,298,Swietokrzyskie,Kilece
+104,Sony,Aparat cyfrowy,3,11,Wielkopolskie,Poznan
+105,Philips,Aparat cyfrowy,3,48,Zachodniopomorskie,Koszalin
+106,Panasonic,Aparat cyfrowy,3,170,Dolnoslaskie,Wroclaw
+107,Panasonic,HiFi,3,412,Podlaskie,Bialystok
+108,Panasonic,Car Audio,4,576,Opolskie,Opole
+109,Panasonic,Monitor,4,317,Wielkopolskie,Poznan
+110,Toshiba,Car Audio,4,25,Podkarpackie,Rzeszow
+111,LG,Car Audio,4,319,Podlaskie,Bialystok
+112,Samsung,Car Audio,4,480,Pomorskie,Sopot
+113,Sony,Monitor,4,41,Slaskie,Katowice
+114,Philips,Monitor,4,116,Swietokrzyskie,Kilece
+115,Toshiba,Monitor,4,403,Zachodniopomorskie,Koszalin
+116,LG,Aparat cyfrowy,4,280,Lubuskie,Zielona Gora
+117,Samsung,Monitor,4,213,Lubelskie,Lublin
+118,Sony,LCD,4,440,Lubuskie,Zielona Gora
+119,Philips,LCD,4,91,Lodzkie,Lodz
+120,Panasonic,LCD,4,148,Malopolskie,Krakow
+121,Toshiba,LCD,4,276,Mazowieckie,Warszawa
+122,LG,LCD,4,235,Opolskie,Opole
+123,Samsung,LCD,4,45,Podkarpackie,Rzeszow
+124,Philips,Car Audio,4,33,Mazowieckie,Warszawa
+125,LG,Monitor,4,318,Dolnoslaskie,Wroclaw
+126,Sony,Car Audio,4,63,Malopolskie,Krakow
+127,Philips,HiFi,4,277,Podkarpackie,Rzeszow
+128,Sony,DVD,4,415,Dolnoslaskie,Wroclaw
+129,Samsung,Aparat cyfrowy,4,191,Lodzkie,Lodz
+130,Philips,DVD,4,309,Lubelskie,Lublin
+131,Panasonic,DVD,4,260,Lubuskie,Zielona Gora
+132,Toshiba,DVD,4,48,Lodzkie,Lodz
+133,LG,DVD,4,299,Malopolskie,Krakow
+134,Sony,HiFi,4,353,Opolskie,Opole
+135,Panasonic,HiFi,4,300,Podlaskie,Bialystok
+136,Samsung,DVD,4,43,Mazowieckie,Warszawa
+137,LG,HiFi,4,355,Slaskie,Katowice
+138,Samsung,HiFi,4,238,Swietokrzyskie,Kilece
+139,Sony,Aparat cyfrowy,4,10,Wielkopolskie,Poznan
+140,Philips,Aparat cyfrowy,4,150,Zachodniopomorskie,Koszalin
+141,Panasonic,Aparat cyfrowy,4,345,Dolnoslaskie,Wroclaw
+142,Toshiba,Aparat cyfrowy,4,460,Lubelskie,Lublin
+143,Toshiba,HiFi,4,272,Pomorskie,Sopot
+144,Philips,Car Audio,5,99,Mazowieckie,Warszawa
+145,Sony,Monitor,5,212,Slaskie,Katowice
+146,Panasonic,Car Audio,5,400,Opolskie,Opole
+147,Toshiba,Car Audio,5,15,Podkarpackie,Rzeszow
+148,LG,Car Audio,5,209,Podlaskie,Bialystok
+149,Samsung,Car Audio,5,394,Pomorskie,Sopot
+150,Philips,Monitor,5,89,Swietokrzyskie,Kilece
+151,Toshiba,LCD,5,231,Mazowieckie,Warszawa
+152,Toshiba,Monitor,5,233,Zachodniopomorskie,Koszalin
+153,LG,Monitor,5,385,Dolnoslaskie,Wroclaw
+154,Samsung,Monitor,5,100,Lubelskie,Lublin
+155,Sony,LCD,5,267,Lubuskie,Zielona Gora
+156,Philips,LCD,5,459,Lodzkie,Lodz
+157,Panasonic,LCD,5,137,Malopolskie,Krakow
+158,Sony,Car Audio,5,58,Malopolskie,Krakow
+159,Panasonic,Monitor,5,95,Wielkopolskie,Poznan
+160,Samsung,Aparat cyfrowy,5,145,Lodzkie,Lodz
+161,LG,Aparat cyfrowy,5,405,Lubuskie,Zielona Gora
+162,Panasonic,Aparat cyfrowy,5,580,Dolnoslaskie,Wroclaw
+163,Samsung,LCD,5,32,Podkarpackie,Rzeszow
+164,Sony,DVD,5,362,Dolnoslaskie,Wroclaw
+165,Philips,DVD,5,538,Lubelskie,Lublin
+166,Panasonic,DVD,5,421,Lubuskie,Zielona Gora
+167,Toshiba,DVD,5,63,Lodzkie,Lodz
+168,LG,DVD,5,201,Malopolskie,Krakow
+169,Samsung,DVD,5,61,Mazowieckie,Warszawa
+170,Sony,HiFi,5,225,Opolskie,Opole
+171,Philips,HiFi,5,119,Podkarpackie,Rzeszow
+172,Panasonic,HiFi,5,343,Podlaskie,Bialystok
+173,Toshiba,HiFi,5,474,Pomorskie,Sopot
+174,LG,HiFi,5,276,Slaskie,Katowice
+175,Samsung,HiFi,5,316,Swietokrzyskie,Kilece
+176,Sony,Aparat cyfrowy,5,6,Wielkopolskie,Poznan
+177,Philips,Aparat cyfrowy,5,119,Zachodniopomorskie,Koszalin
+178,Toshiba,Aparat cyfrowy,5,127,Lubelskie,Lublin
+179,LG,LCD,5,405,Opolskie,Opole
+180,LG,Aparat cyfrowy,6,96,Lubuskie,Zielona Gora
+181,Philips,DVD,6,307,Lubelskie,Lublin
+182,Toshiba,Car Audio,6,15,Podkarpackie,Rzeszow
+183,LG,Car Audio,6,433,Podlaskie,Bialystok
+184,Samsung,Car Audio,6,366,Pomorskie,Sopot
+185,Sony,Monitor,6,139,Slaskie,Katowice
+186,Philips,Monitor,6,209,Swietokrzyskie,Kilece
+187,Toshiba,Monitor,6,518,Zachodniopomorskie,Koszalin
+188,LG,Monitor,6,286,Dolnoslaskie,Wroclaw
+189,Samsung,Monitor,6,134,Lubelskie,Lublin
+190,Sony,LCD,6,328,Lubuskie,Zielona Gora
+191,Philips,LCD,6,292,Lodzkie,Lodz
+192,Panasonic,LCD,6,142,Malopolskie,Krakow
+193,Toshiba,LCD,6,260,Mazowieckie,Warszawa
+194,LG,LCD,6,184,Opolskie,Opole
+195,Samsung,LCD,6,59,Podkarpackie,Rzeszow
+196,Sony,DVD,6,77,Dolnoslaskie,Wroclaw
+197,Panasonic,Car Audio,6,247,Opolskie,Opole
+198,Philips,Car Audio,6,89,Mazowieckie,Warszawa
+199,Panasonic,Monitor,6,160,Wielkopolskie,Poznan
+200,Samsung,Aparat cyfrowy,6,223,Lodzkie,Lodz
+201,Panasonic,DVD,6,408,Lubuskie,Zielona Gora
+202,Sony,Car Audio,6,130,Malopolskie,Krakow
+203,LG,DVD,6,291,Malopolskie,Krakow
+204,Samsung,DVD,6,40,Mazowieckie,Warszawa
+205,Sony,HiFi,6,446,Opolskie,Opole
+206,Philips,HiFi,6,318,Podkarpackie,Rzeszow
+207,Panasonic,HiFi,6,565,Podlaskie,Bialystok
+208,Toshiba,HiFi,6,363,Pomorskie,Sopot
+209,Toshiba,DVD,6,38,Lodzkie,Lodz
+210,Samsung,HiFi,6,238,Swietokrzyskie,Kilece
+211,Sony,Aparat cyfrowy,6,10,Wielkopolskie,Poznan
+212,Philips,Aparat cyfrowy,6,197,Zachodniopomorskie,Koszalin
+213,Panasonic,Aparat cyfrowy,6,292,Dolnoslaskie,Wroclaw
+214,Toshiba,Aparat cyfrowy,6,296,Lubelskie,Lublin
+215,LG,HiFi,6,283,Slaskie,Katowice
+216,Philips,Car Audio,7,134,Mazowieckie,Warszawa
+217,Panasonic,Car Audio,7,181,Opolskie,Opole
+218,Toshiba,Car Audio,7,34,Podkarpackie,Rzeszow
+219,LG,Car Audio,7,76,Podlaskie,Bialystok
+220,Samsung,Car Audio,7,87,Pomorskie,Sopot
+221,Sony,Monitor,7,76,Slaskie,Katowice
+222,Philips,Monitor,7,274,Swietokrzyskie,Kilece
+223,Panasonic,Monitor,7,405,Wielkopolskie,Poznan
+224,Samsung,Monitor,7,185,Lubelskie,Lublin
+225,LG,Monitor,7,229,Dolnoslaskie,Wroclaw
+226,Sony,LCD,7,463,Lubuskie,Zielona Gora
+227,Philips,LCD,7,290,Lodzkie,Lodz
+228,Panasonic,LCD,7,131,Malopolskie,Krakow
+229,LG,LCD,7,252,Opolskie,Opole
+230,Samsung,LCD,7,62,Podkarpackie,Rzeszow
+231,Sony,Car Audio,7,32,Malopolskie,Krakow
+232,Toshiba,Monitor,7,150,Zachodniopomorskie,Koszalin
+233,Samsung,Aparat cyfrowy,7,151,Lodzkie,Lodz
+234,Toshiba,LCD,7,165,Mazowieckie,Warszawa
+235,Toshiba,Aparat cyfrowy,7,586,Lubelskie,Lublin
+236,LG,Aparat cyfrowy,7,271,Lubuskie,Zielona Gora
+237,Philips,DVD,7,329,Lubelskie,Lublin
+238,Panasonic,DVD,7,436,Lubuskie,Zielona Gora
+239,Toshiba,DVD,7,108,Lodzkie,Lodz
+240,LG,DVD,7,83,Malopolskie,Krakow
+241,Samsung,DVD,7,23,Mazowieckie,Warszawa
+242,Sony,HiFi,7,198,Opolskie,Opole
+243,Sony,DVD,7,47,Dolnoslaskie,Wroclaw
+244,Panasonic,HiFi,7,524,Podlaskie,Bialystok
+245,Toshiba,HiFi,7,485,Pomorskie,Sopot
+246,LG,HiFi,7,169,Slaskie,Katowice
+247,Samsung,HiFi,7,299,Swietokrzyskie,Kilece
+248,Sony,Aparat cyfrowy,7,3,Wielkopolskie,Poznan
+249,Philips,Aparat cyfrowy,7,52,Zachodniopomorskie,Koszalin
+250,Philips,HiFi,7,216,Podkarpackie,Rzeszow
+251,Panasonic,Aparat cyfrowy,7,451,Dolnoslaskie,Wroclaw
+252,Samsung,Aparat cyfrowy,8,167,Lodzkie,Lodz
+253,Sony,Car Audio,8,116,Malopolskie,Krakow
+254,Philips,Car Audio,8,85,Mazowieckie,Warszawa
+255,Panasonic,Car Audio,8,262,Opolskie,Opole
+256,Toshiba,Car Audio,8,30,Podkarpackie,Rzeszow
+257,LG,Car Audio,8,163,Podlaskie,Bialystok
+258,Samsung,Car Audio,8,561,Pomorskie,Sopot
+259,Toshiba,Monitor,8,120,Zachodniopomorskie,Koszalin
+260,Panasonic,Monitor,8,151,Wielkopolskie,Poznan
+261,LG,Monitor,8,188,Dolnoslaskie,Wroclaw
+262,Samsung,Monitor,8,219,Lubelskie,Lublin
+263,Sony,LCD,8,519,Lubuskie,Zielona Gora
+264,Philips,LCD,8,312,Lodzkie,Lodz
+265,LG,Aparat cyfrowy,8,383,Lubuskie,Zielona Gora
+266,Panasonic,LCD,8,102,Malopolskie,Krakow
+267,Philips,Monitor,8,69,Swietokrzyskie,Kilece
+268,Toshiba,Aparat cyfrowy,8,381,Lubelskie,Lublin
+269,Sony,Monitor,8,190,Slaskie,Katowice
+270,Philips,Aparat cyfrowy,8,160,Zachodniopomorskie,Koszalin
+271,Panasonic,Aparat cyfrowy,8,309,Dolnoslaskie,Wroclaw
+272,LG,LCD,8,150,Opolskie,Opole
+273,Samsung,LCD,8,46,Podkarpackie,Rzeszow
+274,Sony,DVD,8,383,Dolnoslaskie,Wroclaw
+275,Philips,DVD,8,243,Lubelskie,Lublin
+276,Panasonic,DVD,8,218,Lubuskie,Zielona Gora
+277,Toshiba,DVD,8,105,Lodzkie,Lodz
+278,LG,DVD,8,268,Malopolskie,Krakow
+279,Toshiba,LCD,8,333,Mazowieckie,Warszawa
+280,Sony,HiFi,8,379,Opolskie,Opole
+281,Philips,HiFi,8,202,Podkarpackie,Rzeszow
+282,Panasonic,HiFi,8,521,Podlaskie,Bialystok
+283,Toshiba,HiFi,8,126,Pomorskie,Sopot
+284,LG,HiFi,8,283,Slaskie,Katowice
+285,Samsung,HiFi,8,326,Swietokrzyskie,Kilece
+286,Samsung,DVD,8,17,Mazowieckie,Warszawa
+287,Sony,Aparat cyfrowy,8,8,Wielkopolskie,Poznan
+288,Panasonic,Car Audio,9,417,Opolskie,Opole
+289,Toshiba,Car Audio,9,29,Podkarpackie,Rzeszow
+290,LG,Car Audio,9,302,Podlaskie,Bialystok
+291,Samsung,Car Audio,9,368,Pomorskie,Sopot
+292,Sony,Monitor,9,81,Slaskie,Katowice
+293,Philips,Monitor,9,238,Swietokrzyskie,Kilece
+294,LG,Monitor,9,191,Dolnoslaskie,Wroclaw
+295,Toshiba,Monitor,9,352,Zachodniopomorskie,Koszalin
+296,Philips,Car Audio,9,162,Mazowieckie,Warszawa
+297,Samsung,Monitor,9,266,Lubelskie,Lublin
+298,Sony,LCD,9,578,Lubuskie,Zielona Gora
+299,Philips,LCD,9,296,Lodzkie,Lodz
+300,Panasonic,LCD,9,65,Malopolskie,Krakow
+301,Toshiba,LCD,9,163,Mazowieckie,Warszawa
+302,Panasonic,Monitor,9,267,Wielkopolskie,Poznan
+303,Sony,Car Audio,9,163,Malopolskie,Krakow
+304,Panasonic,Aparat cyfrowy,9,569,Dolnoslaskie,Wroclaw
+305,LG,Aparat cyfrowy,9,443,Lubuskie,Zielona Gora
+306,LG,LCD,9,272,Opolskie,Opole
+307,Sony,DVD,9,12,Dolnoslaskie,Wroclaw
+308,Philips,DVD,9,530,Lubelskie,Lublin
+309,Panasonic,DVD,9,254,Lubuskie,Zielona Gora
+310,Toshiba,DVD,9,39,Lodzkie,Lodz
+311,LG,DVD,9,363,Malopolskie,Krakow
+312,Samsung,DVD,9,68,Mazowieckie,Warszawa
+313,Sony,HiFi,9,247,Opolskie,Opole
+314,Philips,HiFi,9,165,Podkarpackie,Rzeszow
+315,Panasonic,HiFi,9,270,Podlaskie,Bialystok
+316,LG,HiFi,9,399,Slaskie,Katowice
+317,Samsung,HiFi,9,114,Swietokrzyskie,Kilece
+318,Sony,Aparat cyfrowy,9,6,Wielkopolskie,Poznan
+319,Philips,Aparat cyfrowy,9,180,Zachodniopomorskie,Koszalin
+320,Toshiba,Aparat cyfrowy,9,229,Lubelskie,Lublin
+321,Samsung,Aparat cyfrowy,9,198,Lodzkie,Lodz
+322,Toshiba,HiFi,9,100,Pomorskie,Sopot
+323,Samsung,LCD,9,26,Podkarpackie,Rzeszow
+324,Panasonic,LCD,10,134,Malopolskie,Krakow
+325,Sony,Car Audio,10,29,Malopolskie,Krakow
+326,Philips,Car Audio,10,190,Mazowieckie,Warszawa
+327,Panasonic,Car Audio,10,533,Opolskie,Opole
+328,Toshiba,Car Audio,10,11,Podkarpackie,Rzeszow
+329,LG,Car Audio,10,369,Podlaskie,Bialystok
+330,Sony,Monitor,10,115,Slaskie,Katowice
+331,Philips,Monitor,10,149,Swietokrzyskie,Kilece
+332,Panasonic,Monitor,10,232,Wielkopolskie,Poznan
+333,Toshiba,Monitor,10,589,Zachodniopomorskie,Koszalin
+334,LG,Monitor,10,102,Dolnoslaskie,Wroclaw
+335,Samsung,Monitor,10,106,Lubelskie,Lublin
+336,Sony,LCD,10,306,Lubuskie,Zielona Gora
+337,Philips,LCD,10,410,Lodzkie,Lodz
+338,Samsung,LCD,10,49,Podkarpackie,Rzeszow
+339,Toshiba,LCD,10,94,Mazowieckie,Warszawa
+340,Samsung,Aparat cyfrowy,10,86,Lodzkie,Lodz
+341,LG,Aparat cyfrowy,10,358,Lubuskie,Zielona Gora
+342,Samsung,Car Audio,10,359,Pomorskie,Sopot
+343,Panasonic,Aparat cyfrowy,10,424,Dolnoslaskie,Wroclaw
+344,LG,LCD,10,532,Opolskie,Opole
+345,Toshiba,Aparat cyfrowy,10,477,Lubelskie,Lublin
+346,Philips,DVD,10,223,Lubelskie,Lublin
+347,Panasonic,DVD,10,292,Lubuskie,Zielona Gora
+348,Toshiba,DVD,10,70,Lodzkie,Lodz
+349,LG,DVD,10,137,Malopolskie,Krakow
+350,Samsung,DVD,10,16,Mazowieckie,Warszawa
+351,Sony,HiFi,10,414,Opolskie,Opole
+352,Sony,DVD,10,118,Dolnoslaskie,Wroclaw
+353,Panasonic,HiFi,10,245,Podlaskie,Bialystok
+354,Toshiba,HiFi,10,230,Pomorskie,Sopot
+355,LG,HiFi,10,400,Slaskie,Katowice
+356,Samsung,HiFi,10,182,Swietokrzyskie,Kilece
+357,Sony,Aparat cyfrowy,10,6,Wielkopolskie,Poznan
+358,Philips,Aparat cyfrowy,10,153,Zachodniopomorskie,Koszalin
+359,Philips,HiFi,10,413,Podkarpackie,Rzeszow
+360,Sony,Aparat cyfrowy,11,13,Wielkopolskie,Poznan
+361,Samsung,HiFi,11,77,Swietokrzyskie,Kilece
+362,LG,HiFi,11,127,Slaskie,Katowice
+363,Toshiba,HiFi,11,240,Pomorskie,Sopot
+364,Panasonic,HiFi,11,393,Podlaskie,Bialystok
+365,Philips,HiFi,11,147,Podkarpackie,Rzeszow
+366,Toshiba,DVD,11,96,Lodzkie,Lodz
+367,Samsung,DVD,11,38,Mazowieckie,Warszawa
+368,LG,DVD,11,156,Malopolskie,Krakow
+369,Panasonic,DVD,11,475,Lubuskie,Zielona Gora
+370,Philips,DVD,11,588,Lubelskie,Lublin
+371,Sony,DVD,11,339,Dolnoslaskie,Wroclaw
+372,Toshiba,LCD,11,210,Mazowieckie,Warszawa
+373,Sony,HiFi,11,110,Opolskie,Opole
+374,Panasonic,Aparat cyfrowy,11,575,Dolnoslaskie,Wroclaw
+375,Philips,Aparat cyfrowy,11,222,Zachodniopomorskie,Koszalin
+376,LG,Aparat cyfrowy,11,127,Lubuskie,Zielona Gora
+377,LG,LCD,11,414,Opolskie,Opole
+378,Samsung,LCD,11,104,Podkarpackie,Rzeszow
+379,Sony,LCD,11,496,Lubuskie,Zielona Gora
+380,Samsung,Monitor,11,150,Lubelskie,Lublin
+381,LG,Monitor,11,467,Dolnoslaskie,Wroclaw
+382,Toshiba,Monitor,11,411,Zachodniopomorskie,Koszalin
+383,Panasonic,Monitor,11,216,Wielkopolskie,Poznan
+384,Toshiba,Aparat cyfrowy,11,406,Lubelskie,Lublin
+385,Philips,Monitor,11,79,Swietokrzyskie,Kilece
+386,Samsung,Car Audio,11,245,Pomorskie,Sopot
+387,LG,Car Audio,11,112,Podlaskie,Bialystok
+388,Toshiba,Car Audio,11,49,Podkarpackie,Rzeszow
+389,Panasonic,Car Audio,11,239,Opolskie,Opole
+390,Philips,Car Audio,11,157,Mazowieckie,Warszawa
+391,Sony,Car Audio,11,113,Malopolskie,Krakow
+392,Samsung,Aparat cyfrowy,11,111,Lodzkie,Lodz
+393,Sony,Monitor,11,105,Slaskie,Katowice
+394,Philips,LCD,11,120,Lodzkie,Lodz
+395,Panasonic,LCD,11,70,Malopolskie,Krakow
+396,LG,LCD,12,393,Opolskie,Opole
+397,Philips,Car Audio,12,163,Mazowieckie,Warszawa
+398,Panasonic,Car Audio,12,425,Opolskie,Opole
+399,Toshiba,Car Audio,12,11,Podkarpackie,Rzeszow
+400,LG,Car Audio,12,299,Podlaskie,Bialystok
+401,Samsung,Car Audio,12,298,Pomorskie,Sopot
+402,Sony,Monitor,12,162,Slaskie,Katowice
+403,Panasonic,Monitor,12,179,Wielkopolskie,Poznan
+404,Toshiba,Monitor,12,403,Zachodniopomorskie,Koszalin
+405,LG,Monitor,12,119,Dolnoslaskie,Wroclaw
+406,Samsung,Monitor,12,126,Lubelskie,Lublin
+407,Sony,LCD,12,397,Lubuskie,Zielona Gora
+408,Philips,LCD,12,302,Lodzkie,Lodz
+409,Panasonic,LCD,12,45,Malopolskie,Krakow
+410,Toshiba,LCD,12,183,Mazowieckie,Warszawa
+411,Samsung,LCD,12,20,Podkarpackie,Rzeszow
+412,Sony,Car Audio,12,152,Malopolskie,Krakow
+413,Samsung,Aparat cyfrowy,12,305,Lodzkie,Lodz
+414,Philips,Monitor,12,235,Swietokrzyskie,Kilece
+415,Toshiba,Aparat cyfrowy,12,209,Lubelskie,Lublin
+416,LG,Aparat cyfrowy,12,446,Lubuskie,Zielona Gora
+417,Philips,DVD,12,810,Lubelskie,Lublin
+418,Panasonic,DVD,12,546,Lubuskie,Zielona Gora
+419,Toshiba,DVD,12,35,Lodzkie,Lodz
+420,LG,DVD,12,111,Malopolskie,Krakow
+421,Samsung,DVD,12,35,Mazowieckie,Warszawa
+422,Sony,HiFi,12,284,Opolskie,Opole
+423,Philips,HiFi,12,334,Podkarpackie,Rzeszow
+424,Sony,DVD,12,369,Dolnoslaskie,Wroclaw
+425,Toshiba,HiFi,12,423,Pomorskie,Sopot
+426,LG,HiFi,12,207,Slaskie,Katowice
+427,Samsung,HiFi,12,279,Swietokrzyskie,Kilece
+428,Sony,Aparat cyfrowy,12,18,Wielkopolskie,Poznan
+429,Philips,Aparat cyfrowy,12,137,Zachodniopomorskie,Koszalin
+430,Panasonic,Aparat cyfrowy,12,167,Dolnoslaskie,Wroclaw
+431,Panasonic,HiFi,12,184,Podlaskie,Bialystok
+432,LG,LCD,13,493,Opolskie,Opole
+433,Panasonic,Aparat cyfrowy,13,536,Dolnoslaskie,Wroclaw
+434,Philips,Aparat cyfrowy,13,91,Zachodniopomorskie,Koszalin
+435,Sony,Aparat cyfrowy,13,5,Wielkopolskie,Poznan
+436,Samsung,HiFi,13,435,Swietokrzyskie,Kilece
+437,LG,HiFi,13,144,Slaskie,Katowice
+438,Toshiba,HiFi,13,283,Pomorskie,Sopot
+439,Panasonic,HiFi,13,346,Podlaskie,Bialystok
+440,LG,DVD,13,417,Malopolskie,Krakow
+441,Sony,HiFi,13,524,Opolskie,Opole
+442,Samsung,DVD,13,70,Mazowieckie,Warszawa
+443,Toshiba,DVD,13,72,Lodzkie,Lodz
+444,Panasonic,DVD,13,673,Lubuskie,Zielona Gora
+445,Philips,DVD,13,421,Lubelskie,Lublin
+446,Sony,DVD,13,53,Dolnoslaskie,Wroclaw
+447,Philips,HiFi,13,422,Podkarpackie,Rzeszow
+448,LG,Aparat cyfrowy,13,376,Lubuskie,Zielona Gora
+449,Samsung,LCD,13,79,Podkarpackie,Rzeszow
+450,Sony,Car Audio,13,73,Malopolskie,Krakow
+451,Samsung,Aparat cyfrowy,13,67,Lodzkie,Lodz
+452,Toshiba,LCD,13,394,Mazowieckie,Warszawa
+453,Panasonic,LCD,13,68,Malopolskie,Krakow
+454,Philips,LCD,13,372,Lodzkie,Lodz
+455,Sony,LCD,13,333,Lubuskie,Zielona Gora
+456,Samsung,Monitor,13,175,Lubelskie,Lublin
+457,LG,Monitor,13,192,Dolnoslaskie,Wroclaw
+458,Toshiba,Monitor,13,715,Zachodniopomorskie,Koszalin
+459,Toshiba,Aparat cyfrowy,13,528,Lubelskie,Lublin
+460,Philips,Monitor,13,134,Swietokrzyskie,Kilece
+461,Sony,Monitor,13,130,Slaskie,Katowice
+462,Samsung,Car Audio,13,595,Pomorskie,Sopot
+463,LG,Car Audio,13,103,Podlaskie,Bialystok
+464,Toshiba,Car Audio,13,14,Podkarpackie,Rzeszow
+465,Panasonic,Car Audio,13,476,Opolskie,Opole
+466,Panasonic,Monitor,13,408,Wielkopolskie,Poznan
+467,Philips,Car Audio,13,194,Mazowieckie,Warszawa
+468,Philips,Aparat cyfrowy,14,72,Zachodniopomorskie,Koszalin
+469,Sony,Aparat cyfrowy,14,9,Wielkopolskie,Poznan
+470,Samsung,HiFi,14,248,Swietokrzyskie,Kilece
+471,LG,HiFi,14,110,Slaskie,Katowice
+472,Toshiba,HiFi,14,392,Pomorskie,Sopot
+473,Panasonic,HiFi,14,494,Podlaskie,Bialystok
+474,Samsung,DVD,14,59,Mazowieckie,Warszawa
+475,Sony,HiFi,14,177,Opolskie,Opole
+476,Panasonic,Aparat cyfrowy,14,180,Dolnoslaskie,Wroclaw
+477,LG,DVD,14,328,Malopolskie,Krakow
+478,Toshiba,DVD,14,23,Lodzkie,Lodz
+479,Panasonic,DVD,14,308,Lubuskie,Zielona Gora
+480,Philips,DVD,14,456,Lubelskie,Lublin
+481,Sony,DVD,14,88,Dolnoslaskie,Wroclaw
+482,Samsung,LCD,14,118,Podkarpackie,Rzeszow
+483,Philips,HiFi,14,103,Podkarpackie,Rzeszow
+484,Toshiba,Aparat cyfrowy,14,362,Lubelskie,Lublin
+485,Sony,Car Audio,14,119,Malopolskie,Krakow
+486,Samsung,Aparat cyfrowy,14,145,Lodzkie,Lodz
+487,Toshiba,LCD,14,434,Mazowieckie,Warszawa
+488,LG,LCD,14,619,Opolskie,Opole
+489,Panasonic,LCD,14,186,Malopolskie,Krakow
+490,Philips,LCD,14,559,Lodzkie,Lodz
+491,Sony,LCD,14,486,Lubuskie,Zielona Gora
+492,Samsung,Monitor,14,48,Lubelskie,Lublin
+493,LG,Aparat cyfrowy,14,229,Lubuskie,Zielona Gora
+494,LG,Monitor,14,541,Dolnoslaskie,Wroclaw
+495,Panasonic,Monitor,14,405,Wielkopolskie,Poznan
+496,Philips,Monitor,14,357,Swietokrzyskie,Kilece
+497,Sony,Monitor,14,142,Slaskie,Katowice
+498,LG,Car Audio,14,166,Podlaskie,Bialystok
+499,Toshiba,Car Audio,14,34,Podkarpackie,Rzeszow
+500,Panasonic,Car Audio,14,309,Opolskie,Opole
+501,Philips,Car Audio,14,131,Mazowieckie,Warszawa
+502,Toshiba,Monitor,14,229,Zachodniopomorskie,Koszalin
+503,Samsung,Car Audio,14,336,Pomorskie,Sopot
+504,LG,LCD,15,201,Opolskie,Opole
+505,Samsung,LCD,15,39,Podkarpackie,Rzeszow
+506,Toshiba,LCD,15,428,Mazowieckie,Warszawa
+507,Panasonic,LCD,15,44,Malopolskie,Krakow
+508,Sony,DVD,15,190,Dolnoslaskie,Wroclaw
+509,Philips,DVD,15,244,Lubelskie,Lublin
+510,Panasonic,DVD,15,487,Lubuskie,Zielona Gora
+511,Toshiba,DVD,15,116,Lodzkie,Lodz
+512,LG,DVD,15,286,Malopolskie,Krakow
+513,Samsung,DVD,15,54,Mazowieckie,Warszawa
+514,Sony,HiFi,15,414,Opolskie,Opole
+515,Philips,HiFi,15,527,Podkarpackie,Rzeszow
+516,Panasonic,HiFi,15,460,Podlaskie,Bialystok
+517,Toshiba,HiFi,15,472,Pomorskie,Sopot
+518,LG,HiFi,15,245,Slaskie,Katowice
+519,Samsung,HiFi,15,315,Swietokrzyskie,Kilece
+520,Sony,Aparat cyfrowy,15,3,Wielkopolskie,Poznan
+521,Philips,Aparat cyfrowy,15,148,Zachodniopomorskie,Koszalin
+522,Panasonic,Aparat cyfrowy,15,809,Dolnoslaskie,Wroclaw
+523,Toshiba,Aparat cyfrowy,15,509,Lubelskie,Lublin
+524,Sony,LCD,15,101,Lubuskie,Zielona Gora
+525,LG,Aparat cyfrowy,15,234,Lubuskie,Zielona Gora
+526,Samsung,Aparat cyfrowy,15,176,Lodzkie,Lodz
+527,Sony,Car Audio,15,188,Malopolskie,Krakow
+528,Philips,Car Audio,15,226,Mazowieckie,Warszawa
+529,Panasonic,Car Audio,15,499,Opolskie,Opole
+530,Toshiba,Car Audio,15,49,Podkarpackie,Rzeszow
+531,LG,Car Audio,15,462,Podlaskie,Bialystok
+532,Samsung,Car Audio,15,338,Pomorskie,Sopot
+533,Sony,Monitor,15,195,Slaskie,Katowice
+534,Philips,Monitor,15,272,Swietokrzyskie,Kilece
+535,Panasonic,Monitor,15,450,Wielkopolskie,Poznan
+536,Toshiba,Monitor,15,418,Zachodniopomorskie,Koszalin
+537,Philips,LCD,15,623,Lodzkie,Lodz
+538,LG,Monitor,15,540,Dolnoslaskie,Wroclaw
+539,Samsung,Monitor,15,123,Lubelskie,Lublin
+540,Toshiba,DVD,16,129,Lodzkie,Lodz
+541,Toshiba,LCD,16,485,Mazowieckie,Warszawa
+542,Panasonic,LCD,16,172,Malopolskie,Krakow
+543,Philips,LCD,16,394,Lodzkie,Lodz
+544,Sony,LCD,16,219,Lubuskie,Zielona Gora
+545,Samsung,Monitor,16,85,Lubelskie,Lublin
+546,LG,Monitor,16,452,Dolnoslaskie,Wroclaw
+547,Toshiba,Monitor,16,607,Zachodniopomorskie,Koszalin
+548,Panasonic,Monitor,16,186,Wielkopolskie,Poznan
+549,Philips,Monitor,16,282,Swietokrzyskie,Kilece
+550,Sony,Monitor,16,79,Slaskie,Katowice
+551,Samsung,Car Audio,16,349,Pomorskie,Sopot
+552,LG,Car Audio,16,267,Podlaskie,Bialystok
+553,Toshiba,Car Audio,16,41,Podkarpackie,Rzeszow
+554,Panasonic,Car Audio,16,494,Opolskie,Opole
+555,Philips,Car Audio,16,53,Mazowieckie,Warszawa
+556,Sony,Car Audio,16,99,Malopolskie,Krakow
+557,Samsung,Aparat cyfrowy,16,151,Lodzkie,Lodz
+558,Sony,DVD,16,311,Dolnoslaskie,Wroclaw
+559,LG,DVD,16,333,Malopolskie,Krakow
+560,Samsung,DVD,16,19,Mazowieckie,Warszawa
+561,Sony,HiFi,16,626,Opolskie,Opole
+562,Philips,HiFi,16,302,Podkarpackie,Rzeszow
+563,Panasonic,HiFi,16,429,Podlaskie,Bialystok
+564,Panasonic,DVD,16,471,Lubuskie,Zielona Gora
+565,Toshiba,HiFi,16,399,Pomorskie,Sopot
+566,Samsung,HiFi,16,110,Swietokrzyskie,Kilece
+567,Sony,Aparat cyfrowy,16,12,Wielkopolskie,Poznan
+568,Philips,Aparat cyfrowy,16,104,Zachodniopomorskie,Koszalin
+569,Panasonic,Aparat cyfrowy,16,188,Dolnoslaskie,Wroclaw
+570,Toshiba,Aparat cyfrowy,16,178,Lubelskie,Lublin
+571,LG,Aparat cyfrowy,16,530,Lubuskie,Zielona Gora
+572,LG,HiFi,16,331,Slaskie,Katowice
+573,Philips,DVD,16,843,Lubelskie,Lublin
+574,Samsung,LCD,16,44,Podkarpackie,Rzeszow
+575,LG,LCD,16,192,Opolskie,Opole
+576,Panasonic,Aparat cyfrowy,17,181,Dolnoslaskie,Wroclaw
+577,Philips,Aparat cyfrowy,17,44,Zachodniopomorskie,Koszalin
+578,Sony,Aparat cyfrowy,17,5,Wielkopolskie,Poznan
+579,Samsung,HiFi,17,118,Swietokrzyskie,Kilece
+580,LG,HiFi,17,130,Slaskie,Katowice
+581,Toshiba,HiFi,17,215,Pomorskie,Sopot
+582,Panasonic,HiFi,17,309,Podlaskie,Bialystok
+583,LG,LCD,17,682,Opolskie,Opole
+584,Sony,HiFi,17,335,Opolskie,Opole
+585,Samsung,DVD,17,31,Mazowieckie,Warszawa
+586,LG,DVD,17,124,Malopolskie,Krakow
+587,Toshiba,DVD,17,104,Lodzkie,Lodz
+588,Panasonic,DVD,17,470,Lubuskie,Zielona Gora
+589,Philips,DVD,17,1023,Lubelskie,Lublin
+590,Sony,DVD,17,284,Dolnoslaskie,Wroclaw
+591,Toshiba,Aparat cyfrowy,17,566,Lubelskie,Lublin
+592,Philips,HiFi,17,188,Podkarpackie,Rzeszow
+593,LG,Aparat cyfrowy,17,422,Lubuskie,Zielona Gora
+594,Sony,Car Audio,17,58,Malopolskie,Krakow
+595,Toshiba,LCD,17,161,Mazowieckie,Warszawa
+596,Panasonic,LCD,17,156,Malopolskie,Krakow
+597,Philips,LCD,17,277,Lodzkie,Lodz
+598,Sony,LCD,17,221,Lubuskie,Zielona Gora
+599,Samsung,Monitor,17,214,Lubelskie,Lublin
+600,LG,Monitor,17,565,Dolnoslaskie,Wroclaw
+601,Toshiba,Monitor,17,291,Zachodniopomorskie,Koszalin
+602,Panasonic,Monitor,17,233,Wielkopolskie,Poznan
+603,Philips,Monitor,17,157,Swietokrzyskie,Kilece
+604,Sony,Monitor,17,66,Slaskie,Katowice
+605,Samsung,Car Audio,17,510,Pomorskie,Sopot
+606,LG,Car Audio,17,537,Podlaskie,Bialystok
+607,Toshiba,Car Audio,17,25,Podkarpackie,Rzeszow
+608,Panasonic,Car Audio,17,294,Opolskie,Opole
+609,Philips,Car Audio,17,159,Mazowieckie,Warszawa
+610,Samsung,Aparat cyfrowy,17,122,Lodzkie,Lodz
+611,Samsung,LCD,17,76,Podkarpackie,Rzeszow
+612,Sony,DVD,18,194,Dolnoslaskie,Wroclaw
+613,Sony,Car Audio,18,129,Malopolskie,Krakow
+614,Philips,DVD,18,297,Lubelskie,Lublin
+615,Panasonic,DVD,18,512,Lubuskie,Zielona Gora
+616,Toshiba,DVD,18,59,Lodzkie,Lodz
+617,LG,DVD,18,88,Malopolskie,Krakow
+618,Samsung,DVD,18,54,Mazowieckie,Warszawa
+619,Sony,HiFi,18,615,Opolskie,Opole
+620,Philips,HiFi,18,238,Podkarpackie,Rzeszow
+621,Panasonic,HiFi,18,170,Podlaskie,Bialystok
+622,Toshiba,HiFi,18,531,Pomorskie,Sopot
+623,LG,HiFi,18,169,Slaskie,Katowice
+624,Samsung,HiFi,18,167,Swietokrzyskie,Kilece
+625,Sony,Aparat cyfrowy,18,13,Wielkopolskie,Poznan
+626,Philips,Aparat cyfrowy,18,185,Zachodniopomorskie,Koszalin
+627,Panasonic,Aparat cyfrowy,18,453,Dolnoslaskie,Wroclaw
+628,Toshiba,Aparat cyfrowy,18,686,Lubelskie,Lublin
+629,LG,Aparat cyfrowy,18,276,Lubuskie,Zielona Gora
+630,Samsung,Aparat cyfrowy,18,326,Lodzkie,Lodz
+631,Philips,LCD,18,191,Lodzkie,Lodz
+632,Sony,LCD,18,581,Lubuskie,Zielona Gora
+633,Samsung,Monitor,18,387,Lubelskie,Lublin
+634,LG,Monitor,18,265,Dolnoslaskie,Wroclaw
+635,Toshiba,Monitor,18,556,Zachodniopomorskie,Koszalin
+636,Panasonic,Monitor,18,410,Wielkopolskie,Poznan
+637,Samsung,LCD,18,78,Podkarpackie,Rzeszow
+638,Philips,Monitor,18,106,Swietokrzyskie,Kilece
+639,Samsung,Car Audio,18,456,Pomorskie,Sopot
+640,LG,Car Audio,18,160,Podlaskie,Bialystok
+641,Toshiba,Car Audio,18,15,Podkarpackie,Rzeszow
+642,Panasonic,Car Audio,18,511,Opolskie,Opole
+643,Philips,Car Audio,18,162,Mazowieckie,Warszawa
+644,LG,LCD,18,531,Opolskie,Opole
+645,Sony,Monitor,18,212,Slaskie,Katowice
+646,Panasonic,LCD,18,126,Malopolskie,Krakow
+647,Toshiba,LCD,18,95,Mazowieckie,Warszawa
+648,LG,LCD,19,589,Opolskie,Opole
+649,Panasonic,Aparat cyfrowy,19,241,Dolnoslaskie,Wroclaw
+650,Philips,Aparat cyfrowy,19,255,Zachodniopomorskie,Koszalin
+651,Sony,Aparat cyfrowy,19,11,Wielkopolskie,Poznan
+652,Samsung,HiFi,19,506,Swietokrzyskie,Kilece
+653,LG,HiFi,19,303,Slaskie,Katowice
+654,Toshiba,HiFi,19,127,Pomorskie,Sopot
+655,Panasonic,HiFi,19,264,Podlaskie,Bialystok
+656,Philips,HiFi,19,141,Podkarpackie,Rzeszow
+657,Sony,HiFi,19,399,Opolskie,Opole
+658,Samsung,DVD,19,49,Mazowieckie,Warszawa
+659,LG,DVD,19,194,Malopolskie,Krakow
+660,Toshiba,DVD,19,35,Lodzkie,Lodz
+661,Panasonic,DVD,19,537,Lubuskie,Zielona Gora
+662,Philips,DVD,19,866,Lubelskie,Lublin
+663,Samsung,LCD,19,59,Podkarpackie,Rzeszow
+664,Toshiba,Aparat cyfrowy,19,191,Lubelskie,Lublin
+665,LG,Aparat cyfrowy,19,97,Lubuskie,Zielona Gora
+666,Sony,DVD,19,587,Dolnoslaskie,Wroclaw
+667,Sony,Car Audio,19,190,Malopolskie,Krakow
+668,Samsung,Aparat cyfrowy,19,71,Lodzkie,Lodz
+669,Panasonic,LCD,19,33,Malopolskie,Krakow
+670,Philips,LCD,19,862,Lodzkie,Lodz
+671,Sony,LCD,19,690,Lubuskie,Zielona Gora
+672,Samsung,Monitor,19,85,Lubelskie,Lublin
+673,LG,Monitor,19,571,Dolnoslaskie,Wroclaw
+674,Toshiba,Monitor,19,313,Zachodniopomorskie,Koszalin
+675,Toshiba,LCD,19,477,Mazowieckie,Warszawa
+676,Philips,Monitor,19,252,Swietokrzyskie,Kilece
+677,Sony,Monitor,19,99,Slaskie,Katowice
+678,Samsung,Car Audio,19,141,Pomorskie,Sopot
+679,LG,Car Audio,19,462,Podlaskie,Bialystok
+680,Toshiba,Car Audio,19,55,Podkarpackie,Rzeszow
+681,Panasonic,Car Audio,19,648,Opolskie,Opole
+682,Panasonic,Monitor,19,323,Wielkopolskie,Poznan
+683,Philips,Car Audio,19,77,Mazowieckie,Warszawa
+684,Panasonic,Car Audio,20,796,Opolskie,Opole
+685,Toshiba,Car Audio,20,25,Podkarpackie,Rzeszow
+686,LG,Car Audio,20,594,Podlaskie,Bialystok
+687,Samsung,Car Audio,20,494,Pomorskie,Sopot
+688,Sony,Monitor,20,181,Slaskie,Katowice
+689,Philips,Monitor,20,157,Swietokrzyskie,Kilece
+690,LG,Monitor,20,388,Dolnoslaskie,Wroclaw
+691,Toshiba,Monitor,20,539,Zachodniopomorskie,Koszalin
+692,Samsung,Monitor,20,158,Lubelskie,Lublin
+693,Sony,LCD,20,420,Lubuskie,Zielona Gora
+694,Philips,LCD,20,437,Lodzkie,Lodz
+695,Panasonic,LCD,20,180,Malopolskie,Krakow
+696,Philips,Car Audio,20,239,Mazowieckie,Warszawa
+697,Panasonic,Monitor,20,558,Wielkopolskie,Poznan
+698,Samsung,LCD,20,39,Podkarpackie,Rzeszow
+699,Sony,DVD,20,290,Dolnoslaskie,Wroclaw
+700,LG,Aparat cyfrowy,20,651,Lubuskie,Zielona Gora
+701,Philips,DVD,20,271,Lubelskie,Lublin
+702,Panasonic,DVD,20,305,Lubuskie,Zielona Gora
+703,Toshiba,DVD,20,57,Lodzkie,Lodz
+704,LG,DVD,20,297,Malopolskie,Krakow
+705,Samsung,DVD,20,11,Mazowieckie,Warszawa
+706,Sony,HiFi,20,90,Opolskie,Opole
+707,Samsung,Aparat cyfrowy,20,326,Lodzkie,Lodz
+708,Philips,HiFi,20,395,Podkarpackie,Rzeszow
+709,LG,HiFi,20,210,Slaskie,Katowice
+710,Samsung,HiFi,20,224,Swietokrzyskie,Kilece
+711,Sony,Aparat cyfrowy,20,4,Wielkopolskie,Poznan
+712,Philips,Aparat cyfrowy,20,121,Zachodniopomorskie,Koszalin
+713,Panasonic,Aparat cyfrowy,20,448,Dolnoslaskie,Wroclaw
+714,Toshiba,Aparat cyfrowy,20,298,Lubelskie,Lublin
+715,Panasonic,HiFi,20,510,Podlaskie,Bialystok
+716,Toshiba,HiFi,20,186,Pomorskie,Sopot
+717,Sony,Car Audio,20,113,Malopolskie,Krakow
+718,LG,LCD,20,473,Opolskie,Opole
+719,Toshiba,LCD,20,211,Mazowieckie,Warszawa
+720,Toshiba,Car Audio,21,53,Podkarpackie,Rzeszow
+721,LG,Car Audio,21,262,Podlaskie,Bialystok
+722,Samsung,Car Audio,21,276,Pomorskie,Sopot
+723,Sony,Monitor,21,55,Slaskie,Katowice
+724,Philips,Monitor,21,383,Swietokrzyskie,Kilece
+725,Panasonic,Monitor,21,120,Wielkopolskie,Poznan
+726,Toshiba,Monitor,21,566,Zachodniopomorskie,Koszalin
+727,LG,Monitor,21,168,Dolnoslaskie,Wroclaw
+728,Samsung,Monitor,21,333,Lubelskie,Lublin
+729,Sony,LCD,21,603,Lubuskie,Zielona Gora
+730,Philips,LCD,21,358,Lodzkie,Lodz
+731,Panasonic,LCD,21,241,Malopolskie,Krakow
+732,Toshiba,LCD,21,509,Mazowieckie,Warszawa
+733,LG,LCD,21,302,Opolskie,Opole
+734,Samsung,LCD,21,21,Podkarpackie,Rzeszow
+735,Panasonic,Car Audio,21,673,Opolskie,Opole
+736,Philips,Car Audio,21,44,Mazowieckie,Warszawa
+737,Philips,DVD,21,862,Lubelskie,Lublin
+738,Samsung,Aparat cyfrowy,21,147,Lodzkie,Lodz
+739,Sony,Car Audio,21,81,Malopolskie,Krakow
+740,Panasonic,DVD,21,396,Lubuskie,Zielona Gora
+741,Toshiba,DVD,21,86,Lodzkie,Lodz
+742,LG,DVD,21,388,Malopolskie,Krakow
+743,Samsung,DVD,21,105,Mazowieckie,Warszawa
+744,Sony,HiFi,21,178,Opolskie,Opole
+745,Philips,HiFi,21,211,Podkarpackie,Rzeszow
+746,Panasonic,HiFi,21,588,Podlaskie,Bialystok
+747,Sony,DVD,21,219,Dolnoslaskie,Wroclaw
+748,LG,HiFi,21,209,Slaskie,Katowice
+749,Samsung,HiFi,21,60,Swietokrzyskie,Kilece
+750,Sony,Aparat cyfrowy,21,16,Wielkopolskie,Poznan
+751,Philips,Aparat cyfrowy,21,110,Zachodniopomorskie,Koszalin
+752,Panasonic,Aparat cyfrowy,21,587,Dolnoslaskie,Wroclaw
+753,Toshiba,Aparat cyfrowy,21,243,Lubelskie,Lublin
+754,Toshiba,HiFi,21,446,Pomorskie,Sopot
+755,LG,Aparat cyfrowy,21,260,Lubuskie,Zielona Gora
+756,Toshiba,Car Audio,22,13,Podkarpackie,Rzeszow
+757,LG,Car Audio,22,500,Podlaskie,Bialystok
+758,Samsung,Car Audio,22,222,Pomorskie,Sopot
+759,Sony,Monitor,22,164,Slaskie,Katowice
+760,Philips,Monitor,22,123,Swietokrzyskie,Kilece
+761,Panasonic,Monitor,22,683,Wielkopolskie,Poznan
+762,Sony,LCD,22,535,Lubuskie,Zielona Gora
+763,LG,Monitor,22,531,Dolnoslaskie,Wroclaw
+764,Samsung,Monitor,22,174,Lubelskie,Lublin
+765,Philips,LCD,22,344,Lodzkie,Lodz
+766,Panasonic,LCD,22,200,Malopolskie,Krakow
+767,Toshiba,LCD,22,280,Mazowieckie,Warszawa
+768,LG,LCD,22,560,Opolskie,Opole
+769,Panasonic,Car Audio,22,544,Opolskie,Opole
+770,Toshiba,Monitor,22,156,Zachodniopomorskie,Koszalin
+771,Philips,Car Audio,22,83,Mazowieckie,Warszawa
+772,LG,HiFi,22,359,Slaskie,Katowice
+773,Samsung,Aparat cyfrowy,22,344,Lodzkie,Lodz
+774,Philips,DVD,22,384,Lubelskie,Lublin
+775,Panasonic,DVD,22,413,Lubuskie,Zielona Gora
+776,Toshiba,DVD,22,127,Lodzkie,Lodz
+777,LG,DVD,22,67,Malopolskie,Krakow
+778,Samsung,DVD,22,53,Mazowieckie,Warszawa
+779,Sony,HiFi,22,476,Opolskie,Opole
+780,Philips,HiFi,22,150,Podkarpackie,Rzeszow
+781,Panasonic,HiFi,22,458,Podlaskie,Bialystok
+782,Toshiba,HiFi,22,206,Pomorskie,Sopot
+783,Samsung,HiFi,22,579,Swietokrzyskie,Kilece
+784,Sony,Aparat cyfrowy,22,18,Wielkopolskie,Poznan
+785,Philips,Aparat cyfrowy,22,191,Zachodniopomorskie,Koszalin
+786,Panasonic,Aparat cyfrowy,22,397,Dolnoslaskie,Wroclaw
+787,Toshiba,Aparat cyfrowy,22,360,Lubelskie,Lublin
+788,LG,Aparat cyfrowy,22,230,Lubuskie,Zielona Gora
+789,Sony,Car Audio,22,262,Malopolskie,Krakow
+790,Sony,DVD,22,384,Dolnoslaskie,Wroclaw
+791,Samsung,LCD,22,51,Podkarpackie,Rzeszow
+792,Panasonic,HiFi,23,262,Podlaskie,Bialystok
+793,LG,Aparat cyfrowy,23,183,Lubuskie,Zielona Gora
+794,Toshiba,Aparat cyfrowy,23,271,Lubelskie,Lublin
+795,Panasonic,Aparat cyfrowy,23,469,Dolnoslaskie,Wroclaw
+796,Philips,Aparat cyfrowy,23,94,Zachodniopomorskie,Koszalin
+797,Sony,Aparat cyfrowy,23,11,Wielkopolskie,Poznan
+798,Samsung,HiFi,23,195,Swietokrzyskie,Kilece
+799,Samsung,Aparat cyfrowy,23,195,Lodzkie,Lodz
+800,LG,HiFi,23,413,Slaskie,Katowice
+801,Philips,HiFi,23,435,Podkarpackie,Rzeszow
+802,Sony,HiFi,23,378,Opolskie,Opole
+803,Samsung,DVD,23,102,Mazowieckie,Warszawa
+804,LG,DVD,23,89,Malopolskie,Krakow
+805,Toshiba,DVD,23,129,Lodzkie,Lodz
+806,Panasonic,DVD,23,247,Lubuskie,Zielona Gora
+807,Toshiba,HiFi,23,489,Pomorskie,Sopot
+808,Sony,Car Audio,23,204,Malopolskie,Krakow
+809,Philips,Car Audio,23,357,Mazowieckie,Warszawa
+810,Panasonic,Car Audio,23,315,Opolskie,Opole
+811,Sony,DVD,23,680,Dolnoslaskie,Wroclaw
+812,LG,LCD,23,692,Opolskie,Opole
+813,Toshiba,LCD,23,175,Mazowieckie,Warszawa
+814,Panasonic,LCD,23,67,Malopolskie,Krakow
+815,Philips,LCD,23,547,Lodzkie,Lodz
+816,Sony,LCD,23,209,Lubuskie,Zielona Gora
+817,Samsung,Monitor,23,71,Lubelskie,Lublin
+818,LG,Monitor,23,444,Dolnoslaskie,Wroclaw
+819,Toshiba,Monitor,23,445,Zachodniopomorskie,Koszalin
+820,Panasonic,Monitor,23,594,Wielkopolskie,Poznan
+821,Philips,Monitor,23,67,Swietokrzyskie,Kilece
+822,Sony,Monitor,23,75,Slaskie,Katowice
+823,Samsung,Car Audio,23,232,Pomorskie,Sopot
+824,LG,Car Audio,23,196,Podlaskie,Bialystok
+825,Toshiba,Car Audio,23,17,Podkarpackie,Rzeszow
+826,Philips,DVD,23,704,Lubelskie,Lublin
+827,Samsung,LCD,23,64,Podkarpackie,Rzeszow
+828,LG,LCD,24,461,Opolskie,Opole
+829,Sony,DVD,24,389,Dolnoslaskie,Wroclaw
+830,Philips,Car Audio,24,59,Mazowieckie,Warszawa
+831,Panasonic,Car Audio,24,138,Opolskie,Opole
+832,Toshiba,Car Audio,24,23,Podkarpackie,Rzeszow
+833,LG,Car Audio,24,737,Podlaskie,Bialystok
+834,Samsung,Car Audio,24,137,Pomorskie,Sopot
+835,Sony,Monitor,24,227,Slaskie,Katowice
+836,Samsung,LCD,24,74,Podkarpackie,Rzeszow
+837,Panasonic,Monitor,24,346,Wielkopolskie,Poznan
+838,Toshiba,Monitor,24,565,Zachodniopomorskie,Koszalin
+839,LG,Monitor,24,325,Dolnoslaskie,Wroclaw
+840,Samsung,Monitor,24,55,Lubelskie,Lublin
+841,Sony,LCD,24,614,Lubuskie,Zielona Gora
+842,Philips,LCD,24,551,Lodzkie,Lodz
+843,Panasonic,LCD,24,205,Malopolskie,Krakow
+844,Toshiba,LCD,24,338,Mazowieckie,Warszawa
+845,Sony,Car Audio,24,63,Malopolskie,Krakow
+846,Samsung,Aparat cyfrowy,24,220,Lodzkie,Lodz
+847,Philips,Monitor,24,68,Swietokrzyskie,Kilece
+848,Toshiba,Aparat cyfrowy,24,561,Lubelskie,Lublin
+849,LG,Aparat cyfrowy,24,355,Lubuskie,Zielona Gora
+850,Philips,DVD,24,300,Lubelskie,Lublin
+851,Panasonic,DVD,24,174,Lubuskie,Zielona Gora
+852,Toshiba,DVD,24,69,Lodzkie,Lodz
+853,LG,DVD,24,166,Malopolskie,Krakow
+854,Sony,HiFi,24,128,Opolskie,Opole
+855,Philips,HiFi,24,269,Podkarpackie,Rzeszow
+856,Samsung,DVD,24,25,Mazowieckie,Warszawa
+857,Toshiba,HiFi,24,363,Pomorskie,Sopot
+858,LG,HiFi,24,392,Slaskie,Katowice
+859,Samsung,HiFi,24,639,Swietokrzyskie,Kilece
+860,Sony,Aparat cyfrowy,24,11,Wielkopolskie,Poznan
+861,Philips,Aparat cyfrowy,24,232,Zachodniopomorskie,Koszalin
+862,Panasonic,Aparat cyfrowy,24,668,Dolnoslaskie,Wroclaw
+863,Panasonic,HiFi,24,377,Podlaskie,Bialystok
+864,Samsung,Aparat cyfrowy,25,271,Lodzkie,Lodz
+865,Samsung,HiFi,25,323,Swietokrzyskie,Kilece
+866,LG,Aparat cyfrowy,25,507,Lubuskie,Zielona Gora
+867,Toshiba,Aparat cyfrowy,25,347,Lubelskie,Lublin
+868,Panasonic,Aparat cyfrowy,25,378,Dolnoslaskie,Wroclaw
+869,Philips,Aparat cyfrowy,25,70,Zachodniopomorskie,Koszalin
+870,Sony,Aparat cyfrowy,25,14,Wielkopolskie,Poznan
+871,LG,HiFi,25,176,Slaskie,Katowice
+872,Panasonic,DVD,25,547,Lubuskie,Zielona Gora
+873,Panasonic,HiFi,25,592,Podlaskie,Bialystok
+874,Philips,HiFi,25,676,Podkarpackie,Rzeszow
+875,Sony,HiFi,25,284,Opolskie,Opole
+876,Samsung,DVD,25,108,Mazowieckie,Warszawa
+877,LG,DVD,25,216,Malopolskie,Krakow
+878,Toshiba,DVD,25,115,Lodzkie,Lodz
+879,Sony,Car Audio,25,49,Malopolskie,Krakow
+880,Toshiba,HiFi,25,350,Pomorskie,Sopot
+881,Philips,Car Audio,25,179,Mazowieckie,Warszawa
+882,Philips,DVD,25,498,Lubelskie,Lublin
+883,Toshiba,Car Audio,25,43,Podkarpackie,Rzeszow
+884,Panasonic,Car Audio,25,369,Opolskie,Opole
+885,Samsung,LCD,25,85,Podkarpackie,Rzeszow
+886,LG,LCD,25,788,Opolskie,Opole
+887,Toshiba,LCD,25,280,Mazowieckie,Warszawa
+888,Panasonic,LCD,25,51,Malopolskie,Krakow
+889,Philips,LCD,25,421,Lodzkie,Lodz
+890,Sony,LCD,25,765,Lubuskie,Zielona Gora
+891,Sony,DVD,25,141,Dolnoslaskie,Wroclaw
+892,LG,Monitor,25,380,Dolnoslaskie,Wroclaw
+893,Toshiba,Monitor,25,689,Zachodniopomorskie,Koszalin
+894,Panasonic,Monitor,25,514,Wielkopolskie,Poznan
+895,Philips,Monitor,25,453,Swietokrzyskie,Kilece
+896,Sony,Monitor,25,107,Slaskie,Katowice
+897,Samsung,Car Audio,25,303,Pomorskie,Sopot
+898,LG,Car Audio,25,332,Podlaskie,Bialystok
+899,Samsung,Monitor,25,261,Lubelskie,Lublin
+900,Toshiba,Car Audio,26,39,Podkarpackie,Rzeszow
+901,LG,Car Audio,26,273,Podlaskie,Bialystok
+902,Samsung,Car Audio,26,320,Pomorskie,Sopot
+903,Sony,Monitor,26,226,Slaskie,Katowice
+904,Philips,Monitor,26,309,Swietokrzyskie,Kilece
+905,Panasonic,Monitor,26,411,Wielkopolskie,Poznan
+906,Toshiba,Monitor,26,306,Zachodniopomorskie,Koszalin
+907,Sony,LCD,26,152,Lubuskie,Zielona Gora
+908,Samsung,Monitor,26,84,Lubelskie,Lublin
+909,Philips,LCD,26,483,Lodzkie,Lodz
+910,Panasonic,LCD,26,327,Malopolskie,Krakow
+911,Toshiba,LCD,26,533,Mazowieckie,Warszawa
+912,LG,LCD,26,458,Opolskie,Opole
+913,Panasonic,Car Audio,26,679,Opolskie,Opole
+914,Samsung,LCD,26,99,Podkarpackie,Rzeszow
+915,LG,Monitor,26,166,Dolnoslaskie,Wroclaw
+916,Philips,Car Audio,26,235,Mazowieckie,Warszawa
+917,Samsung,HiFi,26,458,Swietokrzyskie,Kilece
+918,Samsung,Aparat cyfrowy,26,166,Lodzkie,Lodz
+919,Sony,DVD,26,394,Dolnoslaskie,Wroclaw
+920,Panasonic,DVD,26,424,Lubuskie,Zielona Gora
+921,Toshiba,DVD,26,109,Lodzkie,Lodz
+922,LG,DVD,26,230,Malopolskie,Krakow
+923,Samsung,DVD,26,14,Mazowieckie,Warszawa
+924,Sony,HiFi,26,371,Opolskie,Opole
+925,Philips,HiFi,26,582,Podkarpackie,Rzeszow
+926,Panasonic,HiFi,26,459,Podlaskie,Bialystok
+927,Toshiba,HiFi,26,633,Pomorskie,Sopot
+928,LG,HiFi,26,448,Slaskie,Katowice
+929,Sony,Aparat cyfrowy,26,14,Wielkopolskie,Poznan
+930,Philips,Aparat cyfrowy,26,357,Zachodniopomorskie,Koszalin
+931,Panasonic,Aparat cyfrowy,26,618,Dolnoslaskie,Wroclaw
+932,Toshiba,Aparat cyfrowy,26,191,Lubelskie,Lublin
+933,LG,Aparat cyfrowy,26,266,Lubuskie,Zielona Gora
+934,Sony,Car Audio,26,216,Malopolskie,Krakow
+935,Philips,DVD,26,1123,Lubelskie,Lublin
+936,Samsung,LCD,27,87,Podkarpackie,Rzeszow
+937,LG,LCD,27,488,Opolskie,Opole
+938,Philips,Car Audio,27,243,Mazowieckie,Warszawa
+939,Panasonic,Car Audio,27,466,Opolskie,Opole
+940,Toshiba,Car Audio,27,14,Podkarpackie,Rzeszow
+941,LG,Car Audio,27,362,Podlaskie,Bialystok
+942,Samsung,Car Audio,27,286,Pomorskie,Sopot
+943,Philips,Monitor,27,249,Swietokrzyskie,Kilece
+944,Sony,Car Audio,27,71,Malopolskie,Krakow
+945,Panasonic,Monitor,27,185,Wielkopolskie,Poznan
+946,LG,Monitor,27,499,Dolnoslaskie,Wroclaw
+947,Samsung,Monitor,27,320,Lubelskie,Lublin
+948,Sony,LCD,27,380,Lubuskie,Zielona Gora
+949,Philips,LCD,27,450,Lodzkie,Lodz
+950,Panasonic,LCD,27,166,Malopolskie,Krakow
+951,Toshiba,LCD,27,96,Mazowieckie,Warszawa
+952,Toshiba,Monitor,27,360,Zachodniopomorskie,Koszalin
+953,Samsung,Aparat cyfrowy,27,122,Lodzkie,Lodz
+954,Sony,Monitor,27,244,Slaskie,Katowice
+955,Toshiba,Aparat cyfrowy,27,275,Lubelskie,Lublin
+956,LG,Aparat cyfrowy,27,195,Lubuskie,Zielona Gora
+957,Philips,DVD,27,416,Lubelskie,Lublin
+958,Panasonic,DVD,27,143,Lubuskie,Zielona Gora
+959,Toshiba,DVD,27,61,Lodzkie,Lodz
+960,LG,DVD,27,111,Malopolskie,Krakow
+961,Sony,DVD,27,343,Dolnoslaskie,Wroclaw
+962,Sony,HiFi,27,166,Opolskie,Opole
+963,Philips,HiFi,27,276,Podkarpackie,Rzeszow
+964,Samsung,DVD,27,19,Mazowieckie,Warszawa
+965,Toshiba,HiFi,27,172,Pomorskie,Sopot
+966,LG,HiFi,27,406,Slaskie,Katowice
+967,Samsung,HiFi,27,326,Swietokrzyskie,Kilece
+968,Sony,Aparat cyfrowy,27,16,Wielkopolskie,Poznan
+969,Philips,Aparat cyfrowy,27,104,Zachodniopomorskie,Koszalin
+970,Panasonic,Aparat cyfrowy,27,827,Dolnoslaskie,Wroclaw
+971,Panasonic,HiFi,27,520,Podlaskie,Bialystok
+972,LG,Car Audio,28,525,Podlaskie,Bialystok
+973,Samsung,Car Audio,28,260,Pomorskie,Sopot
+974,Sony,Monitor,28,255,Slaskie,Katowice
+975,Philips,Monitor,28,243,Swietokrzyskie,Kilece
+976,Panasonic,Monitor,28,347,Wielkopolskie,Poznan
+977,Toshiba,Monitor,28,429,Zachodniopomorskie,Koszalin
+978,LG,Monitor,28,348,Dolnoslaskie,Wroclaw
+979,Sony,DVD,28,451,Dolnoslaskie,Wroclaw
+980,Sony,LCD,28,288,Lubuskie,Zielona Gora
+981,Philips,LCD,28,148,Lodzkie,Lodz
+982,Panasonic,LCD,28,302,Malopolskie,Krakow
+983,Toshiba,LCD,28,472,Mazowieckie,Warszawa
+984,LG,LCD,28,772,Opolskie,Opole
+985,Samsung,LCD,28,154,Podkarpackie,Rzeszow
+986,Toshiba,Car Audio,28,33,Podkarpackie,Rzeszow
+987,Samsung,Monitor,28,365,Lubelskie,Lublin
+988,Panasonic,Car Audio,28,465,Opolskie,Opole
+989,LG,HiFi,28,399,Slaskie,Katowice
+990,Sony,Car Audio,28,109,Malopolskie,Krakow
+991,Philips,DVD,28,466,Lubelskie,Lublin
+992,Philips,Car Audio,28,50,Mazowieckie,Warszawa
+993,Panasonic,DVD,28,582,Lubuskie,Zielona Gora
+994,Toshiba,DVD,28,109,Lodzkie,Lodz
+995,LG,DVD,28,396,Malopolskie,Krakow
+996,Sony,HiFi,28,701,Opolskie,Opole
+997,Philips,HiFi,28,369,Podkarpackie,Rzeszow
+998,Panasonic,HiFi,28,520,Podlaskie,Bialystok
+999,Samsung,DVD,28,35,Mazowieckie,Warszawa
+1000,Samsung,HiFi,28,471,Swietokrzyskie,Kilece
+1001,Sony,Aparat cyfrowy,28,13,Wielkopolskie,Poznan
+1002,Philips,Aparat cyfrowy,28,185,Zachodniopomorskie,Koszalin
+1003,Panasonic,Aparat cyfrowy,28,934,Dolnoslaskie,Wroclaw
+1004,Toshiba,Aparat cyfrowy,28,815,Lubelskie,Lublin
+1005,LG,Aparat cyfrowy,28,430,Lubuskie,Zielona Gora
+1006,Samsung,Aparat cyfrowy,28,120,Lodzkie,Lodz
+1007,Toshiba,HiFi,28,213,Pomorskie,Sopot
+1008,LG,HiFi,29,279,Slaskie,Katowice
+1009,Toshiba,Aparat cyfrowy,29,978,Lubelskie,Lublin
+1010,Panasonic,Aparat cyfrowy,29,592,Dolnoslaskie,Wroclaw
+1011,Philips,Aparat cyfrowy,29,283,Zachodniopomorskie,Koszalin
+1012,Sony,Aparat cyfrowy,29,17,Wielkopolskie,Poznan
+1013,Samsung,HiFi,29,167,Swietokrzyskie,Kilece
+1014,Toshiba,HiFi,29,848,Pomorskie,Sopot
+1015,Philips,DVD,29,733,Lubelskie,Lublin
+1016,Philips,HiFi,29,362,Podkarpackie,Rzeszow
+1017,Sony,HiFi,29,480,Opolskie,Opole
+1018,Samsung,DVD,29,64,Mazowieckie,Warszawa
+1019,LG,DVD,29,390,Malopolskie,Krakow
+1020,Toshiba,DVD,29,94,Lodzkie,Lodz
+1021,Panasonic,DVD,29,244,Lubuskie,Zielona Gora
+1022,Sony,DVD,29,205,Dolnoslaskie,Wroclaw
+1023,Panasonic,HiFi,29,236,Podlaskie,Bialystok
+1024,Samsung,Aparat cyfrowy,29,417,Lodzkie,Lodz
+1025,LG,Aparat cyfrowy,29,305,Lubuskie,Zielona Gora
+1026,Philips,Car Audio,29,304,Mazowieckie,Warszawa
+1027,Sony,Car Audio,29,236,Malopolskie,Krakow
+1028,Samsung,LCD,29,90,Podkarpackie,Rzeszow
+1029,Toshiba,LCD,29,211,Mazowieckie,Warszawa
+1030,Panasonic,LCD,29,297,Malopolskie,Krakow
+1031,Philips,LCD,29,426,Lodzkie,Lodz
+1032,Sony,LCD,29,402,Lubuskie,Zielona Gora
+1033,Samsung,Monitor,29,51,Lubelskie,Lublin
+1034,LG,Monitor,29,227,Dolnoslaskie,Wroclaw
+1035,LG,LCD,29,1209,Opolskie,Opole
+1036,Panasonic,Monitor,29,575,Wielkopolskie,Poznan
+1037,Philips,Monitor,29,126,Swietokrzyskie,Kilece
+1038,Sony,Monitor,29,175,Slaskie,Katowice
+1039,Samsung,Car Audio,29,227,Pomorskie,Sopot
+1040,LG,Car Audio,29,422,Podlaskie,Bialystok
+1041,Toshiba,Car Audio,29,30,Podkarpackie,Rzeszow
+1042,Toshiba,Monitor,29,506,Zachodniopomorskie,Koszalin
+1043,Panasonic,Car Audio,29,235,Opolskie,Opole
+1044,Toshiba,Car Audio,30,51,Podkarpackie,Rzeszow
+1045,LG,Car Audio,30,702,Podlaskie,Bialystok
+1046,Samsung,Car Audio,30,994,Pomorskie,Sopot
+1047,Sony,Monitor,30,96,Slaskie,Katowice
+1048,Philips,Monitor,30,394,Swietokrzyskie,Kilece
+1049,Panasonic,Monitor,30,555,Wielkopolskie,Poznan
+1050,Samsung,Monitor,30,237,Lubelskie,Lublin
+1051,LG,Monitor,30,228,Dolnoslaskie,Wroclaw
+1052,Panasonic,Car Audio,30,558,Opolskie,Opole
+1053,Sony,LCD,30,462,Lubuskie,Zielona Gora
+1054,Philips,LCD,30,580,Lodzkie,Lodz
+1055,Panasonic,LCD,30,81,Malopolskie,Krakow
+1056,Toshiba,LCD,30,269,Mazowieckie,Warszawa
+1057,LG,LCD,30,140,Opolskie,Opole
+1058,Samsung,LCD,30,45,Podkarpackie,Rzeszow
+1059,Toshiba,Monitor,30,385,Zachodniopomorskie,Koszalin
+1060,Philips,Car Audio,30,110,Mazowieckie,Warszawa
+1061,Toshiba,Aparat cyfrowy,30,832,Lubelskie,Lublin
+1062,Samsung,Aparat cyfrowy,30,339,Lodzkie,Lodz
+1063,Sony,DVD,30,162,Dolnoslaskie,Wroclaw
+1064,Philips,DVD,30,213,Lubelskie,Lublin
+1065,Panasonic,DVD,30,362,Lubuskie,Zielona Gora
+1066,Toshiba,DVD,30,72,Lodzkie,Lodz
+1067,LG,DVD,30,168,Malopolskie,Krakow
+1068,Samsung,DVD,30,34,Mazowieckie,Warszawa
+1069,Sony,HiFi,30,292,Opolskie,Opole
+1070,Philips,HiFi,30,478,Podkarpackie,Rzeszow
+1071,Panasonic,HiFi,30,886,Podlaskie,Bialystok
+1072,Toshiba,HiFi,30,316,Pomorskie,Sopot
+1073,Samsung,HiFi,30,115,Swietokrzyskie,Kilece
+1074,Sony,Aparat cyfrowy,30,6,Wielkopolskie,Poznan
+1075,Philips,Aparat cyfrowy,30,74,Zachodniopomorskie,Koszalin
+1076,Panasonic,Aparat cyfrowy,30,387,Dolnoslaskie,Wroclaw
+1077,LG,Aparat cyfrowy,30,109,Lubuskie,Zielona Gora
+1078,Sony,Car Audio,30,92,Malopolskie,Krakow
+1079,LG,HiFi,30,416,Slaskie,Katowice
+1080,LG,LCD,31,301,Opolskie,Opole
+1081,Philips,DVD,31,1168,Lubelskie,Lublin
+1082,Panasonic,Car Audio,31,505,Opolskie,Opole
+1083,Toshiba,Car Audio,31,18,Podkarpackie,Rzeszow
+1084,LG,Car Audio,31,341,Podlaskie,Bialystok
+1085,Samsung,Car Audio,31,395,Pomorskie,Sopot
+1086,Sony,Monitor,31,125,Slaskie,Katowice
+1087,Philips,Monitor,31,433,Swietokrzyskie,Kilece
+1088,Philips,Car Audio,31,327,Mazowieckie,Warszawa
+1089,Panasonic,Monitor,31,202,Wielkopolskie,Poznan
+1090,LG,Monitor,31,687,Dolnoslaskie,Wroclaw
+1091,Samsung,Monitor,31,86,Lubelskie,Lublin
+1092,Sony,LCD,31,709,Lubuskie,Zielona Gora
+1093,Philips,LCD,31,365,Lodzkie,Lodz
+1094,Panasonic,LCD,31,37,Malopolskie,Krakow
+1095,Toshiba,LCD,31,223,Mazowieckie,Warszawa
+1096,Toshiba,Monitor,31,552,Zachodniopomorskie,Koszalin
+1097,Samsung,LCD,31,85,Podkarpackie,Rzeszow
+1098,Sony,Car Audio,31,159,Malopolskie,Krakow
+1099,LG,Aparat cyfrowy,31,427,Lubuskie,Zielona Gora
+1100,Panasonic,DVD,31,252,Lubuskie,Zielona Gora
+1101,Toshiba,DVD,31,119,Lodzkie,Lodz
+1102,LG,DVD,31,348,Malopolskie,Krakow
+1103,Samsung,DVD,31,84,Mazowieckie,Warszawa
+1104,Sony,HiFi,31,922,Opolskie,Opole
+1105,Philips,HiFi,31,428,Podkarpackie,Rzeszow
+1106,Samsung,Aparat cyfrowy,31,106,Lodzkie,Lodz
+1107,Panasonic,HiFi,31,757,Podlaskie,Bialystok
+1108,LG,HiFi,31,577,Slaskie,Katowice
+1109,Samsung,HiFi,31,252,Swietokrzyskie,Kilece
+1110,Sony,Aparat cyfrowy,31,7,Wielkopolskie,Poznan
+1111,Philips,Aparat cyfrowy,31,207,Zachodniopomorskie,Koszalin
+1112,Panasonic,Aparat cyfrowy,31,890,Dolnoslaskie,Wroclaw
+1113,Toshiba,Aparat cyfrowy,31,757,Lubelskie,Lublin
+1114,Toshiba,HiFi,31,339,Pomorskie,Sopot
+1115,Sony,DVD,31,28,Dolnoslaskie,Wroclaw
+1116,Samsung,LCD,32,87,Podkarpackie,Rzeszow
+1117,Philips,Monitor,32,459,Swietokrzyskie,Kilece
+1118,Philips,Car Audio,32,346,Mazowieckie,Warszawa
+1119,Toshiba,Car Audio,32,17,Podkarpackie,Rzeszow
+1120,LG,Car Audio,32,261,Podlaskie,Bialystok
+1121,Samsung,Car Audio,32,840,Pomorskie,Sopot
+1122,Sony,Monitor,32,216,Slaskie,Katowice
+1123,Panasonic,Monitor,32,284,Wielkopolskie,Poznan
+1124,Sony,Car Audio,32,182,Malopolskie,Krakow
+1125,Toshiba,Monitor,32,493,Zachodniopomorskie,Koszalin
+1126,Samsung,Monitor,32,132,Lubelskie,Lublin
+1127,Sony,LCD,32,260,Lubuskie,Zielona Gora
+1128,Philips,LCD,32,1019,Lodzkie,Lodz
+1129,Panasonic,LCD,32,137,Malopolskie,Krakow
+1130,Toshiba,LCD,32,452,Mazowieckie,Warszawa
+1131,LG,LCD,32,873,Opolskie,Opole
+1132,LG,Monitor,32,325,Dolnoslaskie,Wroclaw
+1133,Samsung,Aparat cyfrowy,32,307,Lodzkie,Lodz
+1134,Panasonic,Car Audio,32,291,Opolskie,Opole
+1135,Toshiba,Aparat cyfrowy,32,489,Lubelskie,Lublin
+1136,Sony,DVD,32,9,Dolnoslaskie,Wroclaw
+1137,Philips,DVD,32,290,Lubelskie,Lublin
+1138,Panasonic,DVD,32,439,Lubuskie,Zielona Gora
+1139,Toshiba,DVD,32,175,Lodzkie,Lodz
+1140,LG,DVD,32,552,Malopolskie,Krakow
+1141,LG,Aparat cyfrowy,32,434,Lubuskie,Zielona Gora
+1142,Sony,HiFi,32,130,Opolskie,Opole
+1143,Philips,HiFi,32,492,Podkarpackie,Rzeszow
+1144,Samsung,DVD,32,16,Mazowieckie,Warszawa
+1145,Toshiba,HiFi,32,148,Pomorskie,Sopot
+1146,LG,HiFi,32,283,Slaskie,Katowice
+1147,Samsung,HiFi,32,150,Swietokrzyskie,Kilece
+1148,Sony,Aparat cyfrowy,32,27,Wielkopolskie,Poznan
+1149,Philips,Aparat cyfrowy,32,316,Zachodniopomorskie,Koszalin
+1150,Panasonic,Aparat cyfrowy,32,509,Dolnoslaskie,Wroclaw
+1151,Panasonic,HiFi,32,275,Podlaskie,Bialystok
+1152,Philips,Car Audio,33,440,Mazowieckie,Warszawa
+1153,Philips,Monitor,33,235,Swietokrzyskie,Kilece
+1154,Panasonic,Car Audio,33,333,Opolskie,Opole
+1155,Toshiba,Car Audio,33,15,Podkarpackie,Rzeszow
+1156,LG,Car Audio,33,235,Podlaskie,Bialystok
+1157,Samsung,Car Audio,33,303,Pomorskie,Sopot
+1158,Sony,Monitor,33,96,Slaskie,Katowice
+1159,Panasonic,Monitor,33,611,Wielkopolskie,Poznan
+1160,Samsung,LCD,33,67,Podkarpackie,Rzeszow
+1161,LG,Monitor,33,190,Dolnoslaskie,Wroclaw
+1162,Samsung,Monitor,33,144,Lubelskie,Lublin
+1163,Sony,LCD,33,166,Lubuskie,Zielona Gora
+1164,Philips,LCD,33,407,Lodzkie,Lodz
+1165,Panasonic,LCD,33,238,Malopolskie,Krakow
+1166,LG,LCD,33,354,Opolskie,Opole
+1167,Sony,Car Audio,33,221,Malopolskie,Krakow
+1168,Toshiba,Monitor,33,339,Zachodniopomorskie,Koszalin
+1169,Samsung,Aparat cyfrowy,33,273,Lodzkie,Lodz
+1170,Toshiba,LCD,33,506,Mazowieckie,Warszawa
+1171,Toshiba,Aparat cyfrowy,33,461,Lubelskie,Lublin
+1172,Sony,DVD,33,217,Dolnoslaskie,Wroclaw
+1173,Philips,DVD,33,1175,Lubelskie,Lublin
+1174,Panasonic,DVD,33,288,Lubuskie,Zielona Gora
+1175,Toshiba,DVD,33,61,Lodzkie,Lodz
+1176,LG,Aparat cyfrowy,33,505,Lubuskie,Zielona Gora
+1177,Samsung,DVD,33,92,Mazowieckie,Warszawa
+1178,Sony,HiFi,33,336,Opolskie,Opole
+1179,LG,DVD,33,281,Malopolskie,Krakow
+1180,Panasonic,HiFi,33,206,Podlaskie,Bialystok
+1181,Toshiba,HiFi,33,150,Pomorskie,Sopot
+1182,LG,HiFi,33,320,Slaskie,Katowice
+1183,Samsung,HiFi,33,115,Swietokrzyskie,Kilece
+1184,Sony,Aparat cyfrowy,33,14,Wielkopolskie,Poznan
+1185,Philips,Aparat cyfrowy,33,191,Zachodniopomorskie,Koszalin
+1186,Panasonic,Aparat cyfrowy,33,771,Dolnoslaskie,Wroclaw
+1187,Philips,HiFi,33,355,Podkarpackie,Rzeszow
+1188,Samsung,HiFi,34,348,Swietokrzyskie,Kilece
+1189,LG,HiFi,34,425,Slaskie,Katowice
+1190,Toshiba,HiFi,34,364,Pomorskie,Sopot
+1191,Panasonic,HiFi,34,413,Podlaskie,Bialystok
+1192,Philips,HiFi,34,197,Podkarpackie,Rzeszow
+1193,Sony,HiFi,34,384,Opolskie,Opole
+1194,Panasonic,LCD,34,337,Malopolskie,Krakow
+1195,LG,DVD,34,656,Malopolskie,Krakow
+1196,Toshiba,DVD,34,195,Lodzkie,Lodz
+1197,Panasonic,DVD,34,189,Lubuskie,Zielona Gora
+1198,Philips,DVD,34,1029,Lubelskie,Lublin
+1199,Sony,DVD,34,58,Dolnoslaskie,Wroclaw
+1200,Sony,Aparat cyfrowy,34,26,Wielkopolskie,Poznan
+1201,Samsung,DVD,34,54,Mazowieckie,Warszawa
+1202,Philips,Aparat cyfrowy,34,276,Zachodniopomorskie,Koszalin
+1203,Toshiba,Car Audio,34,49,Podkarpackie,Rzeszow
+1204,Toshiba,Aparat cyfrowy,34,462,Lubelskie,Lublin
+1205,Samsung,Monitor,34,373,Lubelskie,Lublin
+1206,LG,Monitor,34,353,Dolnoslaskie,Wroclaw
+1207,Toshiba,Monitor,34,643,Zachodniopomorskie,Koszalin
+1208,Panasonic,Monitor,34,253,Wielkopolskie,Poznan
+1209,Philips,Monitor,34,148,Swietokrzyskie,Kilece
+1210,Sony,Monitor,34,155,Slaskie,Katowice
+1211,Panasonic,Aparat cyfrowy,34,504,Dolnoslaskie,Wroclaw
+1212,Samsung,Car Audio,34,432,Pomorskie,Sopot
+1213,Toshiba,LCD,34,137,Mazowieckie,Warszawa
+1214,Panasonic,Car Audio,34,313,Opolskie,Opole
+1215,Philips,Car Audio,34,168,Mazowieckie,Warszawa
+1216,Sony,Car Audio,34,60,Malopolskie,Krakow
+1217,Samsung,Aparat cyfrowy,34,329,Lodzkie,Lodz
+1218,LG,Aparat cyfrowy,34,419,Lubuskie,Zielona Gora
+1219,LG,Car Audio,34,378,Podlaskie,Bialystok
+1220,LG,LCD,34,733,Opolskie,Opole
+1221,Philips,LCD,34,535,Lodzkie,Lodz
+1222,Samsung,LCD,34,93,Podkarpackie,Rzeszow
+1223,Sony,LCD,34,1113,Lubuskie,Zielona Gora
+1224,Panasonic,Car Audio,35,545,Opolskie,Opole
+1225,Toshiba,Car Audio,35,75,Podkarpackie,Rzeszow
+1226,LG,Car Audio,35,980,Podlaskie,Bialystok
+1227,Samsung,Car Audio,35,280,Pomorskie,Sopot
+1228,Sony,Monitor,35,148,Slaskie,Katowice
+1229,Philips,Monitor,35,224,Swietokrzyskie,Kilece
+1230,Sony,DVD,35,1052,Dolnoslaskie,Wroclaw
+1231,Toshiba,Monitor,35,1204,Zachodniopomorskie,Koszalin
+1232,LG,Monitor,35,434,Dolnoslaskie,Wroclaw
+1233,Samsung,Monitor,35,308,Lubelskie,Lublin
+1234,Sony,LCD,35,594,Lubuskie,Zielona Gora
+1235,Philips,LCD,35,279,Lodzkie,Lodz
+1236,Panasonic,LCD,35,141,Malopolskie,Krakow
+1237,Philips,Car Audio,35,303,Mazowieckie,Warszawa
+1238,Panasonic,Monitor,35,281,Wielkopolskie,Poznan
+1239,Sony,Car Audio,35,219,Malopolskie,Krakow
+1240,LG,Aparat cyfrowy,35,407,Lubuskie,Zielona Gora
+1241,Philips,DVD,35,473,Lubelskie,Lublin
+1242,Panasonic,DVD,35,576,Lubuskie,Zielona Gora
+1243,Toshiba,DVD,35,131,Lodzkie,Lodz
+1244,LG,DVD,35,74,Malopolskie,Krakow
+1245,Samsung,DVD,35,128,Mazowieckie,Warszawa
+1246,Sony,HiFi,35,344,Opolskie,Opole
+1247,Samsung,Aparat cyfrowy,35,240,Lodzkie,Lodz
+1248,Panasonic,HiFi,35,498,Podlaskie,Bialystok
+1249,LG,HiFi,35,295,Slaskie,Katowice
+1250,Samsung,HiFi,35,445,Swietokrzyskie,Kilece
+1251,Sony,Aparat cyfrowy,35,15,Wielkopolskie,Poznan
+1252,Philips,Aparat cyfrowy,35,114,Zachodniopomorskie,Koszalin
+1253,Panasonic,Aparat cyfrowy,35,190,Dolnoslaskie,Wroclaw
+1254,Toshiba,Aparat cyfrowy,35,196,Lubelskie,Lublin
+1255,Toshiba,HiFi,35,305,Pomorskie,Sopot
+1256,Philips,HiFi,35,94,Podkarpackie,Rzeszow
+1257,LG,LCD,35,657,Opolskie,Opole
+1258,Samsung,LCD,35,58,Podkarpackie,Rzeszow
+1259,Toshiba,LCD,35,370,Mazowieckie,Warszawa
+1260,Samsung,LCD,36,121,Podkarpackie,Rzeszow
+1261,Philips,Car Audio,36,244,Mazowieckie,Warszawa
+1262,Panasonic,Car Audio,36,845,Opolskie,Opole
+1263,Toshiba,Car Audio,36,40,Podkarpackie,Rzeszow
+1264,LG,Car Audio,36,599,Podlaskie,Bialystok
+1265,Samsung,Car Audio,36,939,Pomorskie,Sopot
+1266,Sony,Monitor,36,83,Slaskie,Katowice
+1267,Philips,Monitor,36,76,Swietokrzyskie,Kilece
+1268,Panasonic,Monitor,36,251,Wielkopolskie,Poznan
+1269,LG,Monitor,36,163,Dolnoslaskie,Wroclaw
+1270,Samsung,Monitor,36,130,Lubelskie,Lublin
+1271,Sony,LCD,36,284,Lubuskie,Zielona Gora
+1272,Philips,LCD,36,442,Lodzkie,Lodz
+1273,Panasonic,LCD,36,136,Malopolskie,Krakow
+1274,Toshiba,LCD,36,337,Mazowieckie,Warszawa
+1275,Toshiba,Monitor,36,1168,Zachodniopomorskie,Koszalin
+1276,Sony,Car Audio,36,106,Malopolskie,Krakow
+1277,LG,Aparat cyfrowy,36,558,Lubuskie,Zielona Gora
+1278,LG,LCD,36,1060,Opolskie,Opole
+1279,Sony,DVD,36,383,Dolnoslaskie,Wroclaw
+1280,Philips,DVD,36,1253,Lubelskie,Lublin
+1281,Panasonic,DVD,36,363,Lubuskie,Zielona Gora
+1282,Toshiba,DVD,36,139,Lodzkie,Lodz
+1283,LG,DVD,36,481,Malopolskie,Krakow
+1284,Samsung,DVD,36,89,Mazowieckie,Warszawa
+1285,Sony,HiFi,36,370,Opolskie,Opole
+1286,Philips,HiFi,36,152,Podkarpackie,Rzeszow
+1287,Panasonic,HiFi,36,943,Podlaskie,Bialystok
+1288,Toshiba,HiFi,36,235,Pomorskie,Sopot
+1289,LG,HiFi,36,325,Slaskie,Katowice
+1290,Samsung,HiFi,36,342,Swietokrzyskie,Kilece
+1291,Sony,Aparat cyfrowy,36,15,Wielkopolskie,Poznan
+1292,Philips,Aparat cyfrowy,36,330,Zachodniopomorskie,Koszalin
+1293,Panasonic,Aparat cyfrowy,36,626,Dolnoslaskie,Wroclaw
+1294,Samsung,Aparat cyfrowy,36,118,Lodzkie,Lodz
+1295,Toshiba,Aparat cyfrowy,36,688,Lubelskie,Lublin
+1296,Samsung,Aparat cyfrowy,37,240,Lodzkie,Lodz
+1297,Philips,DVD,37,510,Lubelskie,Lublin
+1298,LG,Car Audio,37,323,Podlaskie,Bialystok
+1299,Samsung,Car Audio,37,575,Pomorskie,Sopot
+1300,Sony,Monitor,37,435,Slaskie,Katowice
+1301,Philips,Monitor,37,382,Swietokrzyskie,Kilece
+1302,Panasonic,Monitor,37,698,Wielkopolskie,Poznan
+1303,Toshiba,Monitor,37,267,Zachodniopomorskie,Koszalin
+1304,Toshiba,Car Audio,37,31,Podkarpackie,Rzeszow
+1305,LG,Monitor,37,395,Dolnoslaskie,Wroclaw
+1306,Sony,LCD,37,467,Lubuskie,Zielona Gora
+1307,Philips,LCD,37,237,Lodzkie,Lodz
+1308,Panasonic,LCD,37,110,Malopolskie,Krakow
+1309,Toshiba,LCD,37,550,Mazowieckie,Warszawa
+1310,LG,LCD,37,873,Opolskie,Opole
+1311,Samsung,LCD,37,25,Podkarpackie,Rzeszow
+1312,Samsung,Monitor,37,200,Lubelskie,Lublin
+1313,Panasonic,Car Audio,37,210,Opolskie,Opole
+1314,Philips,Car Audio,37,331,Mazowieckie,Warszawa
+1315,Sony,Car Audio,37,51,Malopolskie,Krakow
+1316,Panasonic,DVD,37,146,Lubuskie,Zielona Gora
+1317,Toshiba,DVD,37,87,Lodzkie,Lodz
+1318,LG,DVD,37,63,Malopolskie,Krakow
+1319,Samsung,DVD,37,158,Mazowieckie,Warszawa
+1320,Sony,HiFi,37,298,Opolskie,Opole
+1321,Philips,HiFi,37,678,Podkarpackie,Rzeszow
+1322,Panasonic,HiFi,37,196,Podlaskie,Bialystok
+1323,Toshiba,HiFi,37,324,Pomorskie,Sopot
+1324,LG,HiFi,37,244,Slaskie,Katowice
+1325,Samsung,HiFi,37,767,Swietokrzyskie,Kilece
+1326,Sony,Aparat cyfrowy,37,8,Wielkopolskie,Poznan
+1327,Philips,Aparat cyfrowy,37,188,Zachodniopomorskie,Koszalin
+1328,Panasonic,Aparat cyfrowy,37,469,Dolnoslaskie,Wroclaw
+1329,Toshiba,Aparat cyfrowy,37,338,Lubelskie,Lublin
+1330,LG,Aparat cyfrowy,37,215,Lubuskie,Zielona Gora
+1331,Sony,DVD,37,1050,Dolnoslaskie,Wroclaw
+1332,Sony,DVD,38,289,Dolnoslaskie,Wroclaw
+1333,Philips,DVD,38,1041,Lubelskie,Lublin
+1334,Toshiba,Monitor,38,603,Zachodniopomorskie,Koszalin
+1335,Panasonic,Car Audio,38,921,Opolskie,Opole
+1336,LG,Car Audio,38,464,Podlaskie,Bialystok
+1337,Samsung,Car Audio,38,545,Pomorskie,Sopot
+1338,Sony,Monitor,38,194,Slaskie,Katowice
+1339,Philips,Monitor,38,137,Swietokrzyskie,Kilece
+1340,Panasonic,Monitor,38,386,Wielkopolskie,Poznan
+1341,Philips,Car Audio,38,331,Mazowieckie,Warszawa
+1342,LG,Monitor,38,532,Dolnoslaskie,Wroclaw
+1343,Sony,LCD,38,949,Lubuskie,Zielona Gora
+1344,Philips,LCD,38,1005,Lodzkie,Lodz
+1345,Panasonic,LCD,38,180,Malopolskie,Krakow
+1346,Toshiba,LCD,38,94,Mazowieckie,Warszawa
+1347,LG,LCD,38,492,Opolskie,Opole
+1348,Samsung,LCD,38,49,Podkarpackie,Rzeszow
+1349,Samsung,Monitor,38,128,Lubelskie,Lublin
+1350,Sony,Car Audio,38,151,Malopolskie,Krakow
+1351,Toshiba,Car Audio,38,15,Podkarpackie,Rzeszow
+1352,LG,Aparat cyfrowy,38,650,Lubuskie,Zielona Gora
+1353,Panasonic,DVD,38,182,Lubuskie,Zielona Gora
+1354,Toshiba,DVD,38,141,Lodzkie,Lodz
+1355,LG,DVD,38,501,Malopolskie,Krakow
+1356,Samsung,DVD,38,52,Mazowieckie,Warszawa
+1357,Sony,HiFi,38,290,Opolskie,Opole
+1358,Samsung,Aparat cyfrowy,38,305,Lodzkie,Lodz
+1359,Panasonic,HiFi,38,614,Podlaskie,Bialystok
+1360,Toshiba,HiFi,38,577,Pomorskie,Sopot
+1361,Philips,HiFi,38,335,Podkarpackie,Rzeszow
+1362,LG,HiFi,38,268,Slaskie,Katowice
+1363,Samsung,HiFi,38,267,Swietokrzyskie,Kilece
+1364,Sony,Aparat cyfrowy,38,24,Wielkopolskie,Poznan
+1365,Philips,Aparat cyfrowy,38,446,Zachodniopomorskie,Koszalin
+1366,Panasonic,Aparat cyfrowy,38,627,Dolnoslaskie,Wroclaw
+1367,Toshiba,Aparat cyfrowy,38,723,Lubelskie,Lublin
+1368,Panasonic,Monitor,39,317,Wielkopolskie,Poznan
+1369,Toshiba,Car Audio,39,16,Podkarpackie,Rzeszow
+1370,LG,Car Audio,39,97,Podlaskie,Bialystok
+1371,Samsung,Car Audio,39,104,Pomorskie,Sopot
+1372,Sony,Monitor,39,205,Slaskie,Katowice
+1373,Philips,Monitor,39,265,Swietokrzyskie,Kilece
+1374,Panasonic,Car Audio,39,1144,Opolskie,Opole
+1375,Toshiba,Monitor,39,249,Zachodniopomorskie,Koszalin
+1376,Panasonic,HiFi,39,645,Podlaskie,Bialystok
+1377,Samsung,Monitor,39,258,Lubelskie,Lublin
+1378,Sony,LCD,39,508,Lubuskie,Zielona Gora
+1379,Philips,LCD,39,547,Lodzkie,Lodz
+1380,Panasonic,LCD,39,264,Malopolskie,Krakow
+1381,Toshiba,LCD,39,253,Mazowieckie,Warszawa
+1382,LG,LCD,39,132,Opolskie,Opole
+1383,Samsung,LCD,39,94,Podkarpackie,Rzeszow
+1384,Philips,Car Audio,39,153,Mazowieckie,Warszawa
+1385,LG,Monitor,39,367,Dolnoslaskie,Wroclaw
+1386,Sony,Car Audio,39,82,Malopolskie,Krakow
+1387,Toshiba,DVD,39,263,Lodzkie,Lodz
+1388,LG,Aparat cyfrowy,39,192,Lubuskie,Zielona Gora
+1389,Sony,DVD,39,179,Dolnoslaskie,Wroclaw
+1390,Philips,DVD,39,448,Lubelskie,Lublin
+1391,Panasonic,DVD,39,364,Lubuskie,Zielona Gora
+1392,LG,DVD,39,308,Malopolskie,Krakow
+1393,Samsung,Aparat cyfrowy,39,222,Lodzkie,Lodz
+1394,Sony,HiFi,39,814,Opolskie,Opole
+1395,Philips,HiFi,39,306,Podkarpackie,Rzeszow
+1396,Samsung,DVD,39,34,Mazowieckie,Warszawa
+1397,Toshiba,HiFi,39,519,Pomorskie,Sopot
+1398,LG,HiFi,39,884,Slaskie,Katowice
+1399,Samsung,HiFi,39,243,Swietokrzyskie,Kilece
+1400,Sony,Aparat cyfrowy,39,2,Wielkopolskie,Poznan
+1401,Philips,Aparat cyfrowy,39,245,Zachodniopomorskie,Koszalin
+1402,Panasonic,Aparat cyfrowy,39,848,Dolnoslaskie,Wroclaw
+1403,Toshiba,Aparat cyfrowy,39,1356,Lubelskie,Lublin
+1404,Toshiba,Monitor,40,136,Zachodniopomorskie,Koszalin
+1405,LG,Car Audio,40,274,Podlaskie,Bialystok
+1406,Samsung,Car Audio,40,579,Pomorskie,Sopot
+1407,Sony,Monitor,40,130,Slaskie,Katowice
+1408,Philips,Monitor,40,147,Swietokrzyskie,Kilece
+1409,Panasonic,Monitor,40,272,Wielkopolskie,Poznan
+1410,Toshiba,Car Audio,40,44,Podkarpackie,Rzeszow
+1411,LG,Monitor,40,532,Dolnoslaskie,Wroclaw
+1412,Sony,Car Audio,40,219,Malopolskie,Krakow
+1413,Sony,LCD,40,189,Lubuskie,Zielona Gora
+1414,Philips,LCD,40,513,Lodzkie,Lodz
+1415,Panasonic,LCD,40,182,Malopolskie,Krakow
+1416,Toshiba,LCD,40,610,Mazowieckie,Warszawa
+1417,LG,LCD,40,857,Opolskie,Opole
+1418,Samsung,LCD,40,113,Podkarpackie,Rzeszow
+1419,Panasonic,Car Audio,40,458,Opolskie,Opole
+1420,Samsung,Monitor,40,273,Lubelskie,Lublin
+1421,Philips,Car Audio,40,65,Mazowieckie,Warszawa
+1422,Panasonic,HiFi,40,1444,Podlaskie,Bialystok
+1423,Sony,DVD,40,483,Dolnoslaskie,Wroclaw
+1424,Samsung,Aparat cyfrowy,40,226,Lodzkie,Lodz
+1425,Philips,DVD,40,954,Lubelskie,Lublin
+1426,Panasonic,DVD,40,713,Lubuskie,Zielona Gora
+1427,Toshiba,DVD,40,160,Lodzkie,Lodz
+1428,LG,DVD,40,484,Malopolskie,Krakow
+1429,Sony,HiFi,40,676,Opolskie,Opole
+1430,Philips,HiFi,40,743,Podkarpackie,Rzeszow
+1431,Samsung,DVD,40,83,Mazowieckie,Warszawa
+1432,LG,HiFi,40,445,Slaskie,Katowice
+1433,Samsung,HiFi,40,781,Swietokrzyskie,Kilece
+1434,Sony,Aparat cyfrowy,40,17,Wielkopolskie,Poznan
+1435,Philips,Aparat cyfrowy,40,430,Zachodniopomorskie,Koszalin
+1436,Panasonic,Aparat cyfrowy,40,396,Dolnoslaskie,Wroclaw
+1437,Toshiba,Aparat cyfrowy,40,631,Lubelskie,Lublin
+1438,LG,Aparat cyfrowy,40,355,Lubuskie,Zielona Gora
+1439,Toshiba,HiFi,40,884,Pomorskie,Sopot
+1440,Philips,Car Audio,41,377,Mazowieckie,Warszawa
+1441,Philips,Monitor,41,493,Swietokrzyskie,Kilece
+1442,Panasonic,Car Audio,41,308,Opolskie,Opole
+1443,Toshiba,Car Audio,41,51,Podkarpackie,Rzeszow
+1444,LG,Car Audio,41,295,Podlaskie,Bialystok
+1445,Samsung,Car Audio,41,445,Pomorskie,Sopot
+1446,Sony,Monitor,41,417,Slaskie,Katowice
+1447,Panasonic,Monitor,41,308,Wielkopolskie,Poznan
+1448,LG,Aparat cyfrowy,41,539,Lubuskie,Zielona Gora
+1449,LG,Monitor,41,562,Dolnoslaskie,Wroclaw
+1450,Samsung,Monitor,41,432,Lubelskie,Lublin
+1451,Sony,LCD,41,452,Lubuskie,Zielona Gora
+1452,Philips,LCD,41,845,Lodzkie,Lodz
+1453,Panasonic,LCD,41,76,Malopolskie,Krakow
+1454,Toshiba,LCD,41,730,Mazowieckie,Warszawa
+1455,LG,LCD,41,661,Opolskie,Opole
+1456,Samsung,LCD,41,170,Podkarpackie,Rzeszow
+1457,Toshiba,Monitor,41,443,Zachodniopomorskie,Koszalin
+1458,Sony,Car Audio,41,31,Malopolskie,Krakow
+1459,Samsung,HiFi,41,572,Swietokrzyskie,Kilece
+1460,Toshiba,Aparat cyfrowy,41,481,Lubelskie,Lublin
+1461,Sony,DVD,41,475,Dolnoslaskie,Wroclaw
+1462,Philips,DVD,41,263,Lubelskie,Lublin
+1463,Panasonic,DVD,41,397,Lubuskie,Zielona Gora
+1464,Toshiba,DVD,41,221,Lodzkie,Lodz
+1465,Samsung,Aparat cyfrowy,41,131,Lodzkie,Lodz
+1466,Samsung,DVD,41,71,Mazowieckie,Warszawa
+1467,Sony,HiFi,41,592,Opolskie,Opole
+1468,LG,DVD,41,103,Malopolskie,Krakow
+1469,Panasonic,HiFi,41,314,Podlaskie,Bialystok
+1470,Toshiba,HiFi,41,337,Pomorskie,Sopot
+1471,LG,HiFi,41,325,Slaskie,Katowice
+1472,Sony,Aparat cyfrowy,41,15,Wielkopolskie,Poznan
+1473,Philips,Aparat cyfrowy,41,186,Zachodniopomorskie,Koszalin
+1474,Panasonic,Aparat cyfrowy,41,355,Dolnoslaskie,Wroclaw
+1475,Philips,HiFi,41,375,Podkarpackie,Rzeszow
+1476,Sony,Monitor,42,158,Slaskie,Katowice
+1477,Philips,Car Audio,42,118,Mazowieckie,Warszawa
+1478,Panasonic,Car Audio,42,469,Opolskie,Opole
+1479,Toshiba,Car Audio,42,27,Podkarpackie,Rzeszow
+1480,LG,Car Audio,42,505,Podlaskie,Bialystok
+1481,Samsung,Car Audio,42,975,Pomorskie,Sopot
+1482,Philips,Monitor,42,156,Swietokrzyskie,Kilece
+1483,Toshiba,LCD,42,776,Mazowieckie,Warszawa
+1484,Toshiba,Monitor,42,388,Zachodniopomorskie,Koszalin
+1485,LG,Monitor,42,485,Dolnoslaskie,Wroclaw
+1486,Samsung,Monitor,42,231,Lubelskie,Lublin
+1487,Sony,LCD,42,275,Lubuskie,Zielona Gora
+1488,Philips,LCD,42,565,Lodzkie,Lodz
+1489,Panasonic,LCD,42,180,Malopolskie,Krakow
+1490,Sony,Car Audio,42,218,Malopolskie,Krakow
+1491,Panasonic,Monitor,42,155,Wielkopolskie,Poznan
+1492,LG,Aparat cyfrowy,42,137,Lubuskie,Zielona Gora
+1493,Samsung,Aparat cyfrowy,42,208,Lodzkie,Lodz
+1494,Sony,HiFi,42,304,Opolskie,Opole
+1495,LG,LCD,42,986,Opolskie,Opole
+1496,Sony,DVD,42,362,Dolnoslaskie,Wroclaw
+1497,Philips,DVD,42,581,Lubelskie,Lublin
+1498,Panasonic,DVD,42,806,Lubuskie,Zielona Gora
+1499,Toshiba,DVD,42,97,Lodzkie,Lodz
+1500,LG,DVD,42,163,Malopolskie,Krakow
+1501,Samsung,DVD,42,137,Mazowieckie,Warszawa
+1502,Toshiba,Aparat cyfrowy,42,226,Lubelskie,Lublin
+1503,Samsung,LCD,42,146,Podkarpackie,Rzeszow
+1504,Panasonic,HiFi,42,155,Podlaskie,Bialystok
+1505,Toshiba,HiFi,42,1063,Pomorskie,Sopot
+1506,LG,HiFi,42,198,Slaskie,Katowice
+1507,Samsung,HiFi,42,117,Swietokrzyskie,Kilece
+1508,Sony,Aparat cyfrowy,42,17,Wielkopolskie,Poznan
+1509,Philips,Aparat cyfrowy,42,180,Zachodniopomorskie,Koszalin
+1510,Panasonic,Aparat cyfrowy,42,244,Dolnoslaskie,Wroclaw
+1511,Philips,HiFi,42,270,Podkarpackie,Rzeszow
+1512,Philips,DVD,43,1005,Lubelskie,Lublin
+1513,Panasonic,DVD,43,163,Lubuskie,Zielona Gora
+1514,Sony,DVD,43,1024,Dolnoslaskie,Wroclaw
+1515,Toshiba,Car Audio,43,40,Podkarpackie,Rzeszow
+1516,LG,Car Audio,43,302,Podlaskie,Bialystok
+1517,Samsung,Car Audio,43,176,Pomorskie,Sopot
+1518,Sony,Monitor,43,297,Slaskie,Katowice
+1519,Philips,Monitor,43,233,Swietokrzyskie,Kilece
+1520,Panasonic,Monitor,43,360,Wielkopolskie,Poznan
+1521,Panasonic,Car Audio,43,537,Opolskie,Opole
+1522,LG,Monitor,43,462,Dolnoslaskie,Wroclaw
+1523,Sony,LCD,43,519,Lubuskie,Zielona Gora
+1524,Philips,LCD,43,608,Lodzkie,Lodz
+1525,Panasonic,LCD,43,310,Malopolskie,Krakow
+1526,Toshiba,LCD,43,355,Mazowieckie,Warszawa
+1527,LG,LCD,43,390,Opolskie,Opole
+1528,Samsung,LCD,43,81,Podkarpackie,Rzeszow
+1529,Samsung,Monitor,43,162,Lubelskie,Lublin
+1530,Philips,Car Audio,43,252,Mazowieckie,Warszawa
+1531,Toshiba,Monitor,43,797,Zachodniopomorskie,Koszalin
+1532,Samsung,Aparat cyfrowy,43,235,Lodzkie,Lodz
+1533,Sony,Car Audio,43,137,Malopolskie,Krakow
+1534,Toshiba,DVD,43,174,Lodzkie,Lodz
+1535,LG,DVD,43,255,Malopolskie,Krakow
+1536,Samsung,DVD,43,29,Mazowieckie,Warszawa
+1537,Sony,HiFi,43,118,Opolskie,Opole
+1538,Panasonic,HiFi,43,151,Podlaskie,Bialystok
+1539,Toshiba,HiFi,43,437,Pomorskie,Sopot
+1540,Philips,HiFi,43,326,Podkarpackie,Rzeszow
+1541,Samsung,HiFi,43,260,Swietokrzyskie,Kilece
+1542,Sony,Aparat cyfrowy,43,11,Wielkopolskie,Poznan
+1543,Philips,Aparat cyfrowy,43,324,Zachodniopomorskie,Koszalin
+1544,Panasonic,Aparat cyfrowy,43,669,Dolnoslaskie,Wroclaw
+1545,Toshiba,Aparat cyfrowy,43,570,Lubelskie,Lublin
+1546,LG,Aparat cyfrowy,43,1083,Lubuskie,Zielona Gora
+1547,LG,HiFi,43,553,Slaskie,Katowice
+1548,Panasonic,Car Audio,44,609,Opolskie,Opole
+1549,Panasonic,Monitor,44,769,Wielkopolskie,Poznan
+1550,Toshiba,Car Audio,44,85,Podkarpackie,Rzeszow
+1551,LG,Car Audio,44,922,Podlaskie,Bialystok
+1552,Samsung,Car Audio,44,251,Pomorskie,Sopot
+1553,Sony,Monitor,44,219,Slaskie,Katowice
+1554,Philips,Monitor,44,155,Swietokrzyskie,Kilece
+1555,Toshiba,Monitor,44,237,Zachodniopomorskie,Koszalin
+1556,Samsung,LCD,44,73,Podkarpackie,Rzeszow
+1557,Samsung,Monitor,44,176,Lubelskie,Lublin
+1558,Sony,LCD,44,306,Lubuskie,Zielona Gora
+1559,Philips,LCD,44,622,Lodzkie,Lodz
+1560,Panasonic,LCD,44,81,Malopolskie,Krakow
+1561,Toshiba,LCD,44,118,Mazowieckie,Warszawa
+1562,LG,LCD,44,771,Opolskie,Opole
+1563,Philips,Car Audio,44,398,Mazowieckie,Warszawa
+1564,LG,Monitor,44,235,Dolnoslaskie,Wroclaw
+1565,Sony,Car Audio,44,253,Malopolskie,Krakow
+1566,Samsung,Aparat cyfrowy,44,385,Lodzkie,Lodz
+1567,LG,Aparat cyfrowy,44,381,Lubuskie,Zielona Gora
+1568,Philips,DVD,44,880,Lubelskie,Lublin
+1569,Panasonic,DVD,44,619,Lubuskie,Zielona Gora
+1570,Toshiba,DVD,44,87,Lodzkie,Lodz
+1571,LG,DVD,44,358,Malopolskie,Krakow
+1572,Samsung,DVD,44,128,Mazowieckie,Warszawa
+1573,Sony,HiFi,44,1132,Opolskie,Opole
+1574,Philips,HiFi,44,432,Podkarpackie,Rzeszow
+1575,Sony,DVD,44,12,Dolnoslaskie,Wroclaw
+1576,Toshiba,HiFi,44,360,Pomorskie,Sopot
+1577,LG,HiFi,44,177,Slaskie,Katowice
+1578,Samsung,HiFi,44,206,Swietokrzyskie,Kilece
+1579,Sony,Aparat cyfrowy,44,9,Wielkopolskie,Poznan
+1580,Philips,Aparat cyfrowy,44,159,Zachodniopomorskie,Koszalin
+1581,Panasonic,Aparat cyfrowy,44,699,Dolnoslaskie,Wroclaw
+1582,Toshiba,Aparat cyfrowy,44,644,Lubelskie,Lublin
+1583,Panasonic,HiFi,44,291,Podlaskie,Bialystok
+1584,LG,Aparat cyfrowy,45,224,Lubuskie,Zielona Gora
+1585,Toshiba,Aparat cyfrowy,45,656,Lubelskie,Lublin
+1586,Panasonic,Aparat cyfrowy,45,746,Dolnoslaskie,Wroclaw
+1587,Philips,Aparat cyfrowy,45,138,Zachodniopomorskie,Koszalin
+1588,Sony,Aparat cyfrowy,45,22,Wielkopolskie,Poznan
+1589,Samsung,HiFi,45,393,Swietokrzyskie,Kilece
+1590,LG,HiFi,45,239,Slaskie,Katowice
+1591,Sony,HiFi,45,525,Opolskie,Opole
+1592,Panasonic,HiFi,45,451,Podlaskie,Bialystok
+1593,Philips,HiFi,45,600,Podkarpackie,Rzeszow
+1594,Samsung,DVD,45,62,Mazowieckie,Warszawa
+1595,LG,DVD,45,378,Malopolskie,Krakow
+1596,Toshiba,DVD,45,127,Lodzkie,Lodz
+1597,Samsung,Aparat cyfrowy,45,180,Lodzkie,Lodz
+1598,Toshiba,HiFi,45,522,Pomorskie,Sopot
+1599,Sony,Car Audio,45,388,Malopolskie,Krakow
+1600,Panasonic,Monitor,45,422,Wielkopolskie,Poznan
+1601,Panasonic,Car Audio,45,886,Opolskie,Opole
+1602,LG,LCD,45,1149,Opolskie,Opole
+1603,Toshiba,LCD,45,737,Mazowieckie,Warszawa
+1604,Panasonic,LCD,45,209,Malopolskie,Krakow
+1605,Philips,LCD,45,756,Lodzkie,Lodz
+1606,Sony,LCD,45,844,Lubuskie,Zielona Gora
+1607,Samsung,Monitor,45,290,Lubelskie,Lublin
+1608,Philips,Car Audio,45,274,Mazowieckie,Warszawa
+1609,LG,Monitor,45,460,Dolnoslaskie,Wroclaw
+1610,Panasonic,DVD,45,292,Lubuskie,Zielona Gora
+1611,Philips,Monitor,45,206,Swietokrzyskie,Kilece
+1612,Sony,Monitor,45,282,Slaskie,Katowice
+1613,Samsung,Car Audio,45,291,Pomorskie,Sopot
+1614,LG,Car Audio,45,198,Podlaskie,Bialystok
+1615,Toshiba,Car Audio,45,48,Podkarpackie,Rzeszow
+1616,Toshiba,Monitor,45,572,Zachodniopomorskie,Koszalin
+1617,Philips,DVD,45,777,Lubelskie,Lublin
+1618,Sony,DVD,45,1343,Dolnoslaskie,Wroclaw
+1619,Samsung,LCD,45,114,Podkarpackie,Rzeszow
+1620,Philips,DVD,46,284,Lubelskie,Lublin
+1621,Toshiba,Car Audio,46,77,Podkarpackie,Rzeszow
+1622,LG,Car Audio,46,371,Podlaskie,Bialystok
+1623,Samsung,Car Audio,46,296,Pomorskie,Sopot
+1624,Sony,Monitor,46,277,Slaskie,Katowice
+1625,Philips,Monitor,46,189,Swietokrzyskie,Kilece
+1626,Panasonic,Monitor,46,374,Wielkopolskie,Poznan
+1627,Toshiba,Monitor,46,490,Zachodniopomorskie,Koszalin
+1628,LG,Monitor,46,325,Dolnoslaskie,Wroclaw
+1629,Samsung,Monitor,46,316,Lubelskie,Lublin
+1630,Sony,LCD,46,209,Lubuskie,Zielona Gora
+1631,Philips,LCD,46,85,Lodzkie,Lodz
+1632,Panasonic,LCD,46,120,Malopolskie,Krakow
+1633,Toshiba,LCD,46,684,Mazowieckie,Warszawa
+1634,LG,LCD,46,374,Opolskie,Opole
+1635,Panasonic,Car Audio,46,859,Opolskie,Opole
+1636,Panasonic,DVD,46,572,Lubuskie,Zielona Gora
+1637,Philips,Car Audio,46,178,Mazowieckie,Warszawa
+1638,Samsung,LCD,46,38,Podkarpackie,Rzeszow
+1639,Toshiba,DVD,46,116,Lodzkie,Lodz
+1640,LG,DVD,46,272,Malopolskie,Krakow
+1641,Samsung,DVD,46,172,Mazowieckie,Warszawa
+1642,Sony,HiFi,46,742,Opolskie,Opole
+1643,Philips,HiFi,46,301,Podkarpackie,Rzeszow
+1644,Panasonic,HiFi,46,1221,Podlaskie,Bialystok
+1645,Toshiba,HiFi,46,237,Pomorskie,Sopot
+1646,LG,HiFi,46,930,Slaskie,Katowice
+1647,Samsung,HiFi,46,631,Swietokrzyskie,Kilece
+1648,Sony,Aparat cyfrowy,46,28,Wielkopolskie,Poznan
+1649,Philips,Aparat cyfrowy,46,383,Zachodniopomorskie,Koszalin
+1650,Panasonic,Aparat cyfrowy,46,321,Dolnoslaskie,Wroclaw
+1651,Toshiba,Aparat cyfrowy,46,864,Lubelskie,Lublin
+1652,LG,Aparat cyfrowy,46,718,Lubuskie,Zielona Gora
+1653,Samsung,Aparat cyfrowy,46,385,Lodzkie,Lodz
+1654,Sony,Car Audio,46,225,Malopolskie,Krakow
+1655,Sony,DVD,46,438,Dolnoslaskie,Wroclaw
+1656,Sony,Car Audio,47,28,Malopolskie,Krakow
+1657,Panasonic,DVD,47,224,Lubuskie,Zielona Gora
+1658,LG,Car Audio,47,333,Podlaskie,Bialystok
+1659,Samsung,Car Audio,47,266,Pomorskie,Sopot
+1660,Sony,Monitor,47,177,Slaskie,Katowice
+1661,Philips,Monitor,47,97,Swietokrzyskie,Kilece
+1662,Panasonic,Monitor,47,1043,Wielkopolskie,Poznan
+1663,Toshiba,Monitor,47,469,Zachodniopomorskie,Koszalin
+1664,Toshiba,Car Audio,47,60,Podkarpackie,Rzeszow
+1665,LG,Monitor,47,211,Dolnoslaskie,Wroclaw
+1666,Sony,LCD,47,817,Lubuskie,Zielona Gora
+1667,Philips,LCD,47,285,Lodzkie,Lodz
+1668,Panasonic,LCD,47,207,Malopolskie,Krakow
+1669,Toshiba,LCD,47,217,Mazowieckie,Warszawa
+1670,LG,LCD,47,739,Opolskie,Opole
+1671,Samsung,LCD,47,50,Podkarpackie,Rzeszow
+1672,Samsung,Monitor,47,169,Lubelskie,Lublin
+1673,Philips,DVD,47,576,Lubelskie,Lublin
+1674,Panasonic,Car Audio,47,1133,Opolskie,Opole
+1675,Samsung,Aparat cyfrowy,47,165,Lodzkie,Lodz
+1676,Toshiba,DVD,47,159,Lodzkie,Lodz
+1677,LG,DVD,47,173,Malopolskie,Krakow
+1678,Samsung,DVD,47,130,Mazowieckie,Warszawa
+1679,Sony,HiFi,47,836,Opolskie,Opole
+1680,Philips,HiFi,47,541,Podkarpackie,Rzeszow
+1681,Panasonic,HiFi,47,1650,Podlaskie,Bialystok
+1682,Philips,Car Audio,47,88,Mazowieckie,Warszawa
+1683,Toshiba,HiFi,47,318,Pomorskie,Sopot
+1684,Samsung,HiFi,47,225,Swietokrzyskie,Kilece
+1685,Sony,Aparat cyfrowy,47,16,Wielkopolskie,Poznan
+1686,Philips,Aparat cyfrowy,47,179,Zachodniopomorskie,Koszalin
+1687,Panasonic,Aparat cyfrowy,47,1576,Dolnoslaskie,Wroclaw
+1688,Toshiba,Aparat cyfrowy,47,661,Lubelskie,Lublin
+1689,LG,Aparat cyfrowy,47,368,Lubuskie,Zielona Gora
+1690,LG,HiFi,47,593,Slaskie,Katowice
+1691,Sony,DVD,47,101,Dolnoslaskie,Wroclaw
+1692,Panasonic,DVD,48,385,Lubuskie,Zielona Gora
+1693,Philips,DVD,48,145,Lubelskie,Lublin
+1694,LG,Car Audio,48,829,Podlaskie,Bialystok
+1695,Samsung,Car Audio,48,717,Pomorskie,Sopot
+1696,Sony,Monitor,48,111,Slaskie,Katowice
+1697,Philips,Monitor,48,136,Swietokrzyskie,Kilece
+1698,Panasonic,Monitor,48,544,Wielkopolskie,Poznan
+1699,LG,Monitor,48,166,Dolnoslaskie,Wroclaw
+1700,Toshiba,Car Audio,48,39,Podkarpackie,Rzeszow
+1701,Samsung,Monitor,48,85,Lubelskie,Lublin
+1702,Philips,LCD,48,393,Lodzkie,Lodz
+1703,Panasonic,LCD,48,162,Malopolskie,Krakow
+1704,Toshiba,LCD,48,533,Mazowieckie,Warszawa
+1705,LG,LCD,48,640,Opolskie,Opole
+1706,Samsung,LCD,48,46,Podkarpackie,Rzeszow
+1707,Sony,DVD,48,723,Dolnoslaskie,Wroclaw
+1708,Sony,LCD,48,155,Lubuskie,Zielona Gora
+1709,Panasonic,Car Audio,48,484,Opolskie,Opole
+1710,Toshiba,Monitor,48,1209,Zachodniopomorskie,Koszalin
+1711,Sony,Car Audio,48,371,Malopolskie,Krakow
+1712,Toshiba,DVD,48,113,Lodzkie,Lodz
+1713,Philips,Car Audio,48,200,Mazowieckie,Warszawa
+1714,LG,DVD,48,280,Malopolskie,Krakow
+1715,Samsung,DVD,48,38,Mazowieckie,Warszawa
+1716,Sony,HiFi,48,993,Opolskie,Opole
+1717,Philips,HiFi,48,274,Podkarpackie,Rzeszow
+1718,Toshiba,HiFi,48,432,Pomorskie,Sopot
+1719,LG,HiFi,48,846,Slaskie,Katowice
+1720,Panasonic,HiFi,48,673,Podlaskie,Bialystok
+1721,Sony,Aparat cyfrowy,48,8,Wielkopolskie,Poznan
+1722,Philips,Aparat cyfrowy,48,430,Zachodniopomorskie,Koszalin
+1723,Panasonic,Aparat cyfrowy,48,404,Dolnoslaskie,Wroclaw
+1724,Toshiba,Aparat cyfrowy,48,153,Lubelskie,Lublin
+1725,LG,Aparat cyfrowy,48,883,Lubuskie,Zielona Gora
+1726,Samsung,Aparat cyfrowy,48,141,Lodzkie,Lodz
+1727,Samsung,HiFi,48,253,Swietokrzyskie,Kilece
+1728,LG,Car Audio,49,401,Podlaskie,Bialystok
+1729,Toshiba,Monitor,49,562,Zachodniopomorskie,Koszalin
+1730,Samsung,Car Audio,49,500,Pomorskie,Sopot
+1731,Sony,Monitor,49,258,Slaskie,Katowice
+1732,Philips,Monitor,49,401,Swietokrzyskie,Kilece
+1733,Panasonic,Monitor,49,963,Wielkopolskie,Poznan
+1734,LG,Monitor,49,938,Dolnoslaskie,Wroclaw
+1735,Panasonic,DVD,49,732,Lubuskie,Zielona Gora
+1736,Sony,LCD,49,128,Lubuskie,Zielona Gora
+1737,Philips,LCD,49,312,Lodzkie,Lodz
+1738,Panasonic,LCD,49,210,Malopolskie,Krakow
+1739,Toshiba,LCD,49,352,Mazowieckie,Warszawa
+1740,LG,LCD,49,813,Opolskie,Opole
+1741,Samsung,LCD,49,52,Podkarpackie,Rzeszow
+1742,Toshiba,Car Audio,49,31,Podkarpackie,Rzeszow
+1743,Samsung,Monitor,49,241,Lubelskie,Lublin
+1744,Panasonic,Car Audio,49,209,Opolskie,Opole
+1745,Philips,DVD,49,401,Lubelskie,Lublin
+1746,Sony,Car Audio,49,309,Malopolskie,Krakow
+1747,Sony,DVD,49,166,Dolnoslaskie,Wroclaw
+1748,Philips,Car Audio,49,340,Mazowieckie,Warszawa
+1749,Toshiba,DVD,49,77,Lodzkie,Lodz
+1750,LG,DVD,49,216,Malopolskie,Krakow
+1751,Samsung,DVD,49,105,Mazowieckie,Warszawa
+1752,Sony,HiFi,49,347,Opolskie,Opole
+1753,Philips,HiFi,49,503,Podkarpackie,Rzeszow
+1754,Panasonic,HiFi,49,318,Podlaskie,Bialystok
+1755,Samsung,HiFi,49,69,Swietokrzyskie,Kilece
+1756,LG,HiFi,49,401,Slaskie,Katowice
+1757,Sony,Aparat cyfrowy,49,27,Wielkopolskie,Poznan
+1758,Philips,Aparat cyfrowy,49,155,Zachodniopomorskie,Koszalin
+1759,Panasonic,Aparat cyfrowy,49,1138,Dolnoslaskie,Wroclaw
+1760,Toshiba,Aparat cyfrowy,49,245,Lubelskie,Lublin
+1761,LG,Aparat cyfrowy,49,169,Lubuskie,Zielona Gora
+1762,Samsung,Aparat cyfrowy,49,170,Lodzkie,Lodz
+1763,Toshiba,HiFi,49,474,Pomorskie,Sopot
+1764,Toshiba,Aparat cyfrowy,50,213,Lubelskie,Lublin
+1765,Panasonic,Aparat cyfrowy,50,992,Dolnoslaskie,Wroclaw
+1766,Philips,Aparat cyfrowy,50,138,Zachodniopomorskie,Koszalin
+1767,Sony,Aparat cyfrowy,50,10,Wielkopolskie,Poznan
+1768,Samsung,HiFi,50,779,Swietokrzyskie,Kilece
+1769,LG,HiFi,50,429,Slaskie,Katowice
+1770,Toshiba,HiFi,50,625,Pomorskie,Sopot
+1771,Samsung,DVD,50,54,Mazowieckie,Warszawa
+1772,Philips,HiFi,50,280,Podkarpackie,Rzeszow
+1773,Sony,HiFi,50,519,Opolskie,Opole
+1774,LG,DVD,50,581,Malopolskie,Krakow
+1775,Toshiba,DVD,50,93,Lodzkie,Lodz
+1776,Panasonic,DVD,50,778,Lubuskie,Zielona Gora
+1777,Sony,DVD,50,452,Dolnoslaskie,Wroclaw
+1778,LG,Aparat cyfrowy,50,481,Lubuskie,Zielona Gora
+1779,Panasonic,HiFi,50,589,Podlaskie,Bialystok
+1780,Philips,DVD,50,725,Lubelskie,Lublin
+1781,Samsung,Aparat cyfrowy,50,98,Lodzkie,Lodz
+1782,Philips,Car Audio,50,268,Mazowieckie,Warszawa
+1783,Sony,Car Audio,50,167,Malopolskie,Krakow
+1784,LG,LCD,50,275,Opolskie,Opole
+1785,Toshiba,LCD,50,679,Mazowieckie,Warszawa
+1786,Panasonic,LCD,50,69,Malopolskie,Krakow
+1787,Philips,LCD,50,430,Lodzkie,Lodz
+1788,Sony,LCD,50,289,Lubuskie,Zielona Gora
+1789,Samsung,Monitor,50,349,Lubelskie,Lublin
+1790,LG,Monitor,50,442,Dolnoslaskie,Wroclaw
+1791,Samsung,LCD,50,129,Podkarpackie,Rzeszow
+1792,Panasonic,Monitor,50,298,Wielkopolskie,Poznan
+1793,Philips,Monitor,50,493,Swietokrzyskie,Kilece
+1794,Sony,Monitor,50,355,Slaskie,Katowice
+1795,Samsung,Car Audio,50,479,Pomorskie,Sopot
+1796,LG,Car Audio,50,359,Podlaskie,Bialystok
+1797,Toshiba,Car Audio,50,14,Podkarpackie,Rzeszow
+1798,Toshiba,Monitor,50,357,Zachodniopomorskie,Koszalin
+1799,Panasonic,Car Audio,50,423,Opolskie,Opole
+1800,Toshiba,Car Audio,51,28,Podkarpackie,Rzeszow
+1801,LG,Car Audio,51,777,Podlaskie,Bialystok
+1802,Samsung,Car Audio,51,475,Pomorskie,Sopot
+1803,Sony,Monitor,51,163,Slaskie,Katowice
+1804,Philips,Monitor,51,257,Swietokrzyskie,Kilece
+1805,Panasonic,Monitor,51,459,Wielkopolskie,Poznan
+1806,Samsung,Monitor,51,403,Lubelskie,Lublin
+1807,LG,Monitor,51,300,Dolnoslaskie,Wroclaw
+1808,Panasonic,Car Audio,51,488,Opolskie,Opole
+1809,Sony,LCD,51,227,Lubuskie,Zielona Gora
+1810,Philips,LCD,51,244,Lodzkie,Lodz
+1811,Panasonic,LCD,51,230,Malopolskie,Krakow
+1812,Toshiba,LCD,51,249,Mazowieckie,Warszawa
+1813,LG,LCD,51,484,Opolskie,Opole
+1814,Samsung,LCD,51,196,Podkarpackie,Rzeszow
+1815,Toshiba,Monitor,51,455,Zachodniopomorskie,Koszalin
+1816,Philips,Car Audio,51,179,Mazowieckie,Warszawa
+1817,Toshiba,Aparat cyfrowy,51,378,Lubelskie,Lublin
+1818,Samsung,Aparat cyfrowy,51,306,Lodzkie,Lodz
+1819,Sony,DVD,51,715,Dolnoslaskie,Wroclaw
+1820,Philips,DVD,51,674,Lubelskie,Lublin
+1821,Panasonic,DVD,51,385,Lubuskie,Zielona Gora
+1822,Toshiba,DVD,51,64,Lodzkie,Lodz
+1823,LG,DVD,51,493,Malopolskie,Krakow
+1824,Samsung,DVD,51,70,Mazowieckie,Warszawa
+1825,Sony,HiFi,51,441,Opolskie,Opole
+1826,Philips,HiFi,51,219,Podkarpackie,Rzeszow
+1827,Panasonic,HiFi,51,141,Podlaskie,Bialystok
+1828,Toshiba,HiFi,51,791,Pomorskie,Sopot
+1829,Samsung,HiFi,51,392,Swietokrzyskie,Kilece
+1830,Sony,Aparat cyfrowy,51,26,Wielkopolskie,Poznan
+1831,Philips,Aparat cyfrowy,51,197,Zachodniopomorskie,Koszalin
+1832,Panasonic,Aparat cyfrowy,51,617,Dolnoslaskie,Wroclaw
+1833,LG,Aparat cyfrowy,51,553,Lubuskie,Zielona Gora
+1834,Sony,Car Audio,51,141,Malopolskie,Krakow
+1835,LG,HiFi,51,695,Slaskie,Katowice
+1836,Philips,DVD,52,488,Lubelskie,Lublin
+1837,LG,LCD,52,904,Opolskie,Opole
+1838,Toshiba,Aparat cyfrowy,52,387,Lubelskie,Lublin
+1839,Panasonic,Aparat cyfrowy,52,659,Dolnoslaskie,Wroclaw
+1840,Philips,Aparat cyfrowy,52,265,Zachodniopomorskie,Koszalin
+1841,Sony,Aparat cyfrowy,52,8,Wielkopolskie,Poznan
+1842,Samsung,HiFi,52,776,Swietokrzyskie,Kilece
+1843,LG,HiFi,52,294,Slaskie,Katowice
+1844,LG,Aparat cyfrowy,52,106,Lubuskie,Zielona Gora
+1845,Toshiba,HiFi,52,338,Pomorskie,Sopot
+1846,Philips,HiFi,52,541,Podkarpackie,Rzeszow
+1847,Sony,HiFi,52,188,Opolskie,Opole
+1848,Samsung,DVD,52,66,Mazowieckie,Warszawa
+1849,LG,DVD,52,283,Malopolskie,Krakow
+1850,Toshiba,DVD,52,43,Lodzkie,Lodz
+1851,Panasonic,DVD,52,632,Lubuskie,Zielona Gora
+1852,Panasonic,HiFi,52,1592,Podlaskie,Bialystok
+1853,Samsung,LCD,52,96,Podkarpackie,Rzeszow
+1854,Samsung,Aparat cyfrowy,52,458,Lodzkie,Lodz
+1855,Philips,Car Audio,52,123,Mazowieckie,Warszawa
+1856,Toshiba,LCD,52,394,Mazowieckie,Warszawa
+1857,Panasonic,LCD,52,72,Malopolskie,Krakow
+1858,Philips,LCD,52,1351,Lodzkie,Lodz
+1859,Sony,LCD,52,666,Lubuskie,Zielona Gora
+1860,Samsung,Monitor,52,177,Lubelskie,Lublin
+1861,LG,Monitor,52,642,Dolnoslaskie,Wroclaw
+1862,Sony,Car Audio,52,256,Malopolskie,Krakow
+1863,Toshiba,Monitor,52,1404,Zachodniopomorskie,Koszalin
+1864,Philips,Monitor,52,237,Swietokrzyskie,Kilece
+1865,Sony,Monitor,52,203,Slaskie,Katowice
+1866,Samsung,Car Audio,52,835,Pomorskie,Sopot
+1867,LG,Car Audio,52,574,Podlaskie,Bialystok
+1868,Toshiba,Car Audio,52,33,Podkarpackie,Rzeszow
+1869,Panasonic,Car Audio,52,698,Opolskie,Opole
+1870,Panasonic,Monitor,52,439,Wielkopolskie,Poznan
+1871,Sony,DVD,52,960,Dolnoslaskie,Wroclaw
