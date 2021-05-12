@@ -32,6 +32,6 @@ To run the project:
      * If you have one, set up a custom virtual environment for the program in which the project will run.
      * Set the destination path to the folder with the project: "cd <destination path to project>"
      * Type "pip install -r requirements.txt".
-3. Choose the index.py file and start the application.
+3. Choose the index.py file and start the application in a program that handles files with the .py extension.
 
 Application developed and tested in Spyder. 
