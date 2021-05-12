@@ -28,10 +28,10 @@ Rest of required packages in requirements.txt file
 To run the project:
 1. Download the entire repository and unzip it.
 2. Install the required packages included in the requirements.txt file:
-  * Launch command-line interface or Anaconda Prompt.
-  * If you have one, set up a custom virtual environment for the program in which the project will run.
-  * Set the destination path to the folder with the project: "cd <destination path to project>"
-  * Type "pip install -r requirements.txt".
+     * Launch command-line interface or Anaconda Prompt.
+     * If you have one, set up a custom virtual environment for the program in which the project will run.
+     * Set the destination path to the folder with the project: "cd <destination path to project>"
+     * Type "pip install -r requirements.txt".
 3. Choose the index.py file and start the application.
 
 Application developed and tested in Spyder. 
