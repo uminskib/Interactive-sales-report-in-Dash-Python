@@ -34,4 +34,8 @@ To run the project:
      * Type "pip install -r requirements.txt".
 3. Choose the index.py file and start the application in a program that handles files with the .py extension.
 
+Login data to the report:
+Username: bartek
+Password: python
+
 Application developed and tested in Spyder. 
